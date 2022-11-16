@@ -3,11 +3,6 @@
 	"status": 2,
 	"id": "100085606826114",
 	"name": "",
-	"amountFriends": "",
-	"screenname": "Thais Ribeiro",
-	"birthdate": "1997 October 13",
-	"country": "Brazil",
-	"isAvatarExists": true,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -37,7 +32,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699990691.679856,
+			"expirationDate": 1700144156.184952,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -50,7 +45,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699990691.679945,
+			"expirationDate": 1700144156.185006,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -59,11 +54,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "12%3AM1_rabSXHm8cSA%3A2%3A1668454691%3A-1%3A-1"
+			"value": "12%3AM1_rabSXHm8cSA%3A2%3A1668454691%3A-1%3A-1%3A%3AAcVxGlMI-Aa3Io1D4G-fj3RT5BBsmWEpuRrgt_oa1A"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676230839.501516,
+			"expirationDate": 1676384219.876466,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -72,11 +67,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0S8EnpQkYGttY8Xtr.AWWGRTaFhRPYuomSb_M9BJGZ-lU.BjcpkW.P0.AAA.0.0.Bjcpm3.AWV6L0WqkfA"
+			"value": "06zggtGdFstKfpNO0.AWWFyy3txIAdFbXZGa7Ah6wVMpQ.BjdPCc.P0.AAA.0.0.BjdPDc.AWXJLIA2zLc"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669059838,
+			"expirationDate": 1669213132,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -97,8 +92,13 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668455012826%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668608330045%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.11.2022 19:44 PreencherPerfil"
+	"lastEventDate": "16.11.2022 14:18 TestScripts",
+	"amountFriends": "",
+	"screenname": "Thais Ribeiro",
+	"birthdate": "1997 October 13",
+	"country": "Brazil",
+	"isAvatarExists": true
 }
