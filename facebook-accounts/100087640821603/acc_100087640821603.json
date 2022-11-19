@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700361617.098882,
+			"expirationDate": 1700421944.712644,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700361617.098905,
+			"expirationDate": 1700421944.712743,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "6%3A_UIgxFc9cLRTGw%3A2%3A1668825628%3A-1%3A-1"
+			"value": "6%3A_UIgxFc9cLRTGw%3A2%3A1668825628%3A-1%3A-1%3A%3AAcXVSVVXxc8RkaBbMPY3jqMe7gzimtR4snvzVLbegw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676602206.621538,
+			"expirationDate": 1676664078.969356,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0HXyCkqGkJAQtG0dT.AWUnSs6TvB1vdFGQObME8u-Zsys.BjeEGN.5U.AAA.0.0.BjeERg.AWVatXIKwLo"
+			"value": "0iUAFCbXIjcPS2Cox.AWVSY1CcjsGOdR0gM4Ugl2K__XE.BjeS25.5U.AAA.0.0.BjeTYQ.AWU0gzGxzdk"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669431176,
+			"expirationDate": 1669492998,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x617"
+			"value": "1366x572"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +112,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668826352221%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668888200102%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.11.2022 02:52 Farm Dia 2"
+	"lastEventDate": "19.11.2022 20:03 ScriptTest"
 }
