@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700356505.000185,
+			"expirationDate": 1700356824.59833,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700356505.000273,
+			"expirationDate": 1700356824.598371,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "49%3At_0dOgiFvapSEw%3A2%3A1668820171%3A-1%3A-1%3A%3AAcUA8a3dhDWfEBJhvTB0HcgtfiUK6a8VxltH47Ut3Q"
+			"value": "49%3At_0dOgiFvapSEw%3A2%3A1668820171%3A-1%3A-1%3A%3AAcUDDPWDYMaoNteVF-z4BZhLp1Q3P0OA5JQFEkvstA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676596504.000321,
+			"expirationDate": 1676596823.598392,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,20 +87,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0t7Us2Pie1VkS1NnP.AWUbGuS9bIlQ6IqCxjUWcBA8F5Y.BjeC4Z.4i.AAA.0.0.BjeC4Z.AWWy1Q3Ba_Y"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669425549,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1366x617"
+			"value": "0XQrIOu4WZJxdyjKe.AWWaMnBimbcG-pzC8_TSuFARXPs.BjeC9Z.4i.AAA.0.0.BjeC9Z.AWXzm3aBBcA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,8 +99,21 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668820754242%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668820960177%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1669425809,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1366x617"
 		}
 	],
-	"lastEventDate": "19.11.2022 01:19 Farm Dia 2"
+	"lastEventDate": "19.11.2022 01:23 Farm Dia 2"
 }
