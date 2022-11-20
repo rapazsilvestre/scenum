@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676681305.438089,
+			"expirationDate": 1676684490.543357,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03QAfP8oIqsVRt937.AWVLu63SAsmf1QulE_RIu1dJydQ.BjeXg0.iz.AAA.0.0.BjeXlb.AWUz1eHXY9I"
+			"value": "03QAfP8oIqsVRt937.AWUuM5wkVJkdrTBIHzruzzs-4dY.BjeXg0.iz.AAA.0.0.BjeYXM.AWV0kkm4Ios"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669510234,
+			"expirationDate": 1669513411,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -112,8 +112,12 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668905439270%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1668908609813%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "20.11.2022 00:51 Farm Dia 3"
+	"lastEventDate": "20.11.2022 01:43 Farm Dia 3 (Adaptado)",
+	"email": "tmelton080eitu3@outlook.com",
+	"emailPassword": "0830etQte",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
