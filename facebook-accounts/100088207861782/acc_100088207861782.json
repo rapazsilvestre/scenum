@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700584200.978022,
+			"expirationDate": 1700593990.317203,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700584200.978104,
+			"expirationDate": 1700593990.317442,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,24 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "17%3A41i6EnU430_JZQ%3A2%3A1668888974%3A-1%3A-1%3A%3AAcU58yEuLEx6M4sgOgNkefS0hWAx-zt0iHGCa98Nzg"
+			"value": "17%3A41i6EnU430_JZQ%3A2%3A1668888974%3A-1%3A-1%3A%3AAcWrhAjBcR3Nc3BmIZpHjEk80_0xGE2w1fa3DOPmQQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676826055.772031,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0b9KHy6DRjVKAmrvA.AWVXQa1mknrnfvV9TwqjoC4JRfo.Bje6eJ.NR.AAA.0.0.Bje67I.AWVNJz-dVBk"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1669655098,
+			"expirationDate": 1669665606,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -113,7 +100,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x617"
+			"value": "1366x572"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1676836623.332467,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "04UwISZcaMwxlvhB6.AWXkIogkNbXr2AjcOgtyMJLqN9U.Bje83G.NR.AAA.0.0.Bje9gQ.AWXeJ96ZASY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,10 +125,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669050243823%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669060759595%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.11.2022 19:12 Farm Dia 3",
+	"lastEventDate": "21.11.2022 20:00 Farm Dia 3 (Adaptada)",
 	"email": "mynoruy804aiexia@outlook.com",
 	"emailPassword": "iS8Bi0xB4x",
 	"imapHost": "outlook.office365.com",
