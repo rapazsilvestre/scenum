@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677886737.39721,
+			"expirationDate": 1677887598.900931,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,7 +87,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0IsWGF39Y71h8ooys.AWX1Zvh5AhbLueP483jg5d6u9as.Bji9xn.NR.AAA.0.0.Bji94S.AWWf5bhWZHA"
+			"value": "0IsWGF39Y71h8ooys.AWWFCMVmKC3Ouq_m1lAHcqiUiLk.Bji9xn.NR.AAA.0.0.Bji-Fw.AWUSgOEZsG4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -99,11 +99,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670110926544%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670111717618%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670715761,
+			"expirationDate": 1670716541,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 			"value": "1366x572"
 		}
 	],
-	"lastEventDate": "03.12.2022 23:47 Posts na pagina teste",
+	"lastEventDate": "03.12.2022 23:55 Posts na pagina teste",
 	"email": "mynoruy804aiexia@outlook.com",
 	"emailPassword": "iS8Bi0xB4x",
 	"imapHost": "outlook.office365.com",
