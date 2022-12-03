@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669493775.085082,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700593990.317203,
+			"expirationDate": 1701646310.120109,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700593990.317442,
+			"expirationDate": 1701646310.120179,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,24 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "17%3A41i6EnU430_JZQ%3A2%3A1668888974%3A-1%3A-1%3A%3AAcWrhAjBcR3Nc3BmIZpHjEk80_0xGE2w1fa3DOPmQQ"
+			"value": "17%3A41i6EnU430_JZQ%3A2%3A1668888974%3A-1%3A-1%3A%3AAcWO3OJ4rUvTxYRK3ZRiVv0D1CjWZrFsy8xhZh-xLA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1669665606,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1366x572"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1676836623.332467,
+			"expirationDate": 1677886737.39721,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +87,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "04UwISZcaMwxlvhB6.AWXkIogkNbXr2AjcOgtyMJLqN9U.Bje83G.NR.AAA.0.0.Bje9gQ.AWXeJ96ZASY"
+			"value": "0IsWGF39Y71h8ooys.AWX1Zvh5AhbLueP483jg5d6u9as.Bji9xn.NR.AAA.0.0.Bji94S.AWWf5bhWZHA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,10 +99,23 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1669060759595%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670110926544%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1670715761,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1366x572"
 		}
 	],
-	"lastEventDate": "21.11.2022 20:03 Farm Dia 3 (Adaptada)",
+	"lastEventDate": "03.12.2022 23:42 Posts na pagina teste",
 	"email": "mynoruy804aiexia@outlook.com",
 	"emailPassword": "iS8Bi0xB4x",
 	"imapHost": "outlook.office365.com",
