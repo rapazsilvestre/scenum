@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701646310.120109,
+			"expirationDate": 1701686590.856416,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701646310.120179,
+			"expirationDate": 1701686590.856789,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "17%3A41i6EnU430_JZQ%3A2%3A1668888974%3A-1%3A-1%3A%3AAcWO3OJ4rUvTxYRK3ZRiVv0D1CjWZrFsy8xhZh-xLA"
+			"value": "17%3A41i6EnU430_JZQ%3A2%3A1668888974%3A-1%3A-1%3A%3AAcXtyjBuLV95WjK1iczqT5ovu2v_paPUYWrGl35DSQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677887598.900931,
+			"expirationDate": 1677926844.086579,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,7 +87,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0IsWGF39Y71h8ooys.AWWFCMVmKC3Ouq_m1lAHcqiUiLk.Bji9xn.NR.AAA.0.0.Bji-Fw.AWUSgOEZsG4"
+			"value": "0OqApaGJ5N8tBF59F.AWUw_M0eJaUOz8rXcJfIH0wECI4.BjjHm_.NR.AAA.0.0.BjjHq9.AWWVMah6kw8"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1670755840,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1366x572"
 		},
 		{
 			"domain": ".facebook.com",
@@ -99,23 +112,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670111717618%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1670716541,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1366x572"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670150994718%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "03.12.2022 23:56 Posts na pagina teste",
+	"lastEventDate": "04.12.2022 10:50 Posts na pagina teste",
 	"email": "mynoruy804aiexia@outlook.com",
 	"emailPassword": "iS8Bi0xB4x",
 	"imapHost": "outlook.office365.com",
