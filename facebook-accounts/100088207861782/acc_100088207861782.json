@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701690467.904205,
+			"expirationDate": 1701694086.667275,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,33 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701690467.904272,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "17%3A41i6EnU430_JZQ%3A2%3A1668888974%3A-1%3A-1%3A%3AAcX4pdHHWj5ZYBLkPO_1CsNSQnbBrQw6NYtFH3la3g"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1677931136.867446,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "07aBSgsEfQoRh2RdW.AWUQICKAVu4eAQkOL_IF6AaM3Pk.BjjIjk.NR.AAA.0.0.BjjIuC.AWWPsseBwDM"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1670760078,
+			"expirationDate": 1670762994,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,7 +74,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x568"
+			"value": "1366x572"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1701694086.66739,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "17%3A41i6EnU430_JZQ%3A2%3A1668888974%3A-1%3A-1%3A%3AAcX8XI2pwMQO0CtIQHkJ4Q1tZYuh-WRWYC6jjPuHA2w"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1677934085.667448,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0IhuDPgGG5pzSuIAO.AWUpurL4UFmluvB8fEVe3L-TQNs.BjjJcH.NR.AAA.0.0.BjjJcH.AWVTYoF6nRw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,10 +112,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670155256116%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670158149501%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "04.12.2022 12:01 Posts na pagina teste",
+	"lastEventDate": "04.12.2022 12:49 Posts na pagina teste",
 	"email": "mynoruy804aiexia@outlook.com",
 	"emailPassword": "iS8Bi0xB4x",
 	"imapHost": "outlook.office365.com",
