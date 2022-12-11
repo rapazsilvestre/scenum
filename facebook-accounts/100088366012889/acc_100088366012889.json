@@ -115,7 +115,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671401211,
+			"expirationDate": 1678572429.22928,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0gkStFs68mBbwBeip.AWXQWOnIZj45a6_NYhBRVVwaAZs.BjllI6.j6.AAA.0.0.BjllSN.AWVNxqfoV-4"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1671401448,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,19 +141,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678572091.818761,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0gkStFs68mBbwBeip.AWWGUZ_PdMQom8yKuqKXOrg9r6w.BjllI6.j6.AAA.0.0.BjllM6.AWX10ez79qQ"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,7 +149,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670796350415%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670796602018%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "web.facebook.com",
@@ -161,8 +161,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYKFuydgs4BEwQWsueEuPTBLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABa-zLK5DBYAABV-HEwAABYAFu7MsrkMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABa4zbK5DBYAABWAARxMAAAWABa4zbK5DBYAABYaAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCa4zbK5DBYAABUEFTomuM2yuQwWAAAVBBU8JrjNsrkMFgAAFQQVUia4zbK5DBYAABUEFWAmuM2yuQwWAAAVBBViJrjNsrkMFgAAFQQVaia4zbK5DBYAABUEFW4muM2yuQwWAAAVBBV0JrjNsrkMFgAAFhISAA%22%2C%2226%22%3A%22dummy_cursor%22%7D%2C%22d%22%3A%22e70e39f0-436a-4fd8-b820-fb6e3585772f%22%2C%22s%22%3A%221%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABYeFuydgs4BEwQWsueEuPTBLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABa-zLK5DBYAABV-HEwAABYAFu7MsrkMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABa4zbK5DBYAABWAARxMAAAWABa4zbK5DBYAABYaAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCa4zbK5DBYAABUEFTomuM2yuQwWAAAVBBU8JrjNsrkMFgAAFQQVUia4zbK5DBYAABUEFWAmuM2yuQwWAAAVBBViJrjNsrkMFgAAFQQVaia4zbK5DBYAABUEFW4muM2yuQwWAAAVBBV0JrjNsrkMFgAAFhISAA%22%2C%2226%22%3A%22dummy_cursor%22%7D%2C%22d%22%3A%22e70e39f0-436a-4fd8-b820-fb6e3585772f%22%2C%22s%22%3A%221%22%7D"
 		}
 	],
-	"lastEventDate": "11.12.2022 22:06 Farm Dia 2 (Criação de perfil)"
+	"lastEventDate": "11.12.2022 22:10 Farm Dia 2 (Criação de perfil)"
 }
