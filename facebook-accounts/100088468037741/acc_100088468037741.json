@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671453524,
+			"expirationDate": 1671456615,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,7 +128,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678624599.028645,
+			"expirationDate": 1678627630.102856,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05jsWv8t2i59aGGsE.AWUdv1P8aIMNyVqv0PoB_QopgBg.BjlnrB.-T.AAA.0.0.BjlyBX.AWUqzdc60PQ"
+			"value": "05jsWv8t2i59aGGsE.AWXnVJGGzmFj_f4fJJBdlRjfXIk.BjlnrB.-T.AAA.0.0.Bjlywu.AWWYSW5p5kI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +149,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670848726919%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670851790842%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "12.12.2022 13:26 2.Envio de convite apenas"
+	"lastEventDate": "12.12.2022 13:30 2.Envio de convite apenas"
 }
