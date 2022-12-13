@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671574250,
+			"expirationDate": 1671574471,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,7 +128,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678745136.410211,
+			"expirationDate": 1678745489.965632,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0P4TqbWJwi11psKNu.AWWQPlrXvl1Yy8ZV_CJpTLig1fo.BjmPZA.oc.AAA.0.0.BjmPcs.AWVsJgVnOAc"
+			"value": "0P4TqbWJwi11psKNu.AWW4k03hAMKtw3ouneE3YlaFci4.BjmPZA.oc.AAA.0.0.BjmPiS.AWWgJu3PF2Q"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +149,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670969472431%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670969626695%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "13.12.2022 22:11 Farm Dia 2 (Criação de perfil \"Primeira metade\")"
+	"lastEventDate": "13.12.2022 22:14 Farm Dia 2 (Criação de perfil \"Primeira metade\")"
 }
