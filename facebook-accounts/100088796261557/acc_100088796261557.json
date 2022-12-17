@@ -115,7 +115,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671893406,
+			"expirationDate": 1679064617.224274,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0tVBn1GsvgmShoaJt.AWVG4UgTWtZ7odjnJZ-FcDW2vhs.BjndWC.eq.AAA.0.0.Bjndcp.AWWBJ_LJyeo"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1671893530,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,19 +141,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679064409.9473,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0tVBn1GsvgmShoaJt.AWVxP2gNvVnoAXEhDSSpUWEyMtY.BjndWC.eq.AAA.0.0.BjndZU.AWXnVVeY7mw"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +149,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671288581826%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671288746040%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "17.12.2022 14:50 Farm Dia 2 (Criação de perfil \"Primeira metade\")"
+	"lastEventDate": "17.12.2022 14:52 Farm Dia 2 (Criação de perfil \"Primeira metade\")"
 }
