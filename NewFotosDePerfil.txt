@@ -1,4 +1,3 @@
-https://api.scenum.io/uploads/a5793f4d-7599-469e-bd90-164ce995d0d4/d5af7ef8-66e4-47ab-93ae-88e859965018.jpg
 https://api.scenum.io/uploads/a5793f4d-7599-469e-bd90-164ce995d0d4/a336d4bc-c947-45fa-9d3b-4b0e510ebe4d.jpg
 https://api.scenum.io/uploads/a5793f4d-7599-469e-bd90-164ce995d0d4/1623783b-5881-4c55-acd3-0f6c3a91f2d7.jpg
 https://api.scenum.io/uploads/a5793f4d-7599-469e-bd90-164ce995d0d4/fed4248a-9d36-4bf5-a405-eeaa5a303180.jpg
