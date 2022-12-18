@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Ana Vitoria Alvarenga",
 	"birthdate": "1991 March 2",
-	"country": "",
+	"country": "Paulo",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671336513.955598,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASQOW9nGEt1Y_Ferdw9jNM0ziccPiwjmuMy6U11mibstoOBn3mTo3LPDxX7tnnpJ2ShGe4R_HmX8iiK6PLn7sXmvW1e6cEW2Zg30nqXikY7So0znmz616p6Ecc_JG4YFO1GJzBHo0HLyc7Co5BscD3rfsQXl5rnlwrf5IEwIvz075gKN4i2_5qvPAd9EtG1fnnjPaVIBbiLZNFgqFAlb1cJpIGn6vumveHAz2x5HWr4uVRFAlD4B4gegs1cGZZ05U3VeSkqfe0zwBvS46UbIIcU9OIL4mwamJb6cOcYcA9JgnxshzR_o-1Et_A3LaK48M9-3I7u--WB_agvAcqs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678767351.59869,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0b3pd5JKv3XwMdw7B.AWV528Frk3cz4iqtV1hvI8wFftk.BjmUww.uC.AAA.0.0.BjmU34.AWUmUyEbJCY"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671596310,
+			"expirationDate": 1672012125,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679183143.230358,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0b3pd5JKv3XwMdw7B.AWXQN6zAjuUWBdtnTocWYrHXGQA.BjmUww.uC.AAA.0.0.Bjn6Yn.AWWDbjMdOuY"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670991486123%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671407299570%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "18.12.2022 23:45 Farm Dia 3 (Sub Num)"
+	"lastEventDate": "18.12.2022 23:48 Farm Dia 3 (Sub Num)"
 }
