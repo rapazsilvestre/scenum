@@ -115,20 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679098061.230927,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0ebutaD2CBoq7HDPZ.AWXfWePHIf30Y_P5yOGCMsmwkP8.BjnlgD.AH.AAA.0.0.BjnlnO.AWUWMsQZ_nU"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671927037,
+			"expirationDate": 1671993530,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +128,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679164532.371345,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0ebutaD2CBoq7HDPZ.AWXY4JI7n5H2fRiCUXqpIRHBGvg.BjnlgD.AH.AAA.0.0.Bjn111.AWWmxXU--Go"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +149,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671322209862%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671388684185%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "18.12.2022 18:35 6.1.Saudações grupo s/ link"
+	"lastEventDate": "18.12.2022 18:38 6.1.Saudações grupo s/ link"
 }
