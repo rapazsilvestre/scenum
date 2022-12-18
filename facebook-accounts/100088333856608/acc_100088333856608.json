@@ -139,5 +139,9 @@
 			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671407299570%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "18.12.2022 23:48 Farm Dia 3 (Sub Num)"
+	"lastEventDate": "18.12.2022 23:48 Farm Dia 3 (Sub Num)",
+	"email": "severo436faoafwo7gf@outlook.com",
+	"emailPassword": "3fgw6f4gV7",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
