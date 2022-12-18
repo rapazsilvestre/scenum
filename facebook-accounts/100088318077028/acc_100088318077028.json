@@ -139,5 +139,9 @@
 	"screenname": "Astrid Moreira",
 	"birthdate": "1995 August 23",
 	"country": "",
-	"isAvatarExists": false
+	"isAvatarExists": false,
+	"email": "rc1uo19uva16o@outlook.com",
+	"emailPassword": "1o6K91oJXv",
+	"imapHost": "outlook.office365.com",
+	"imapPort": "993"
 }
