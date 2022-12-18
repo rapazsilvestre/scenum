@@ -46,19 +46,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671266922.562211,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASQee91279CPythuziFmYMVw1qjqTsjDA2_kqdTjU_AlWr8NivBCOgGzS6vAHNw8D5O8aZbgwG_80EojF5ZDNX2fAtd_8MTNzxnXdaRyC-0xye0wkYd1DRefA9jfmKkJYAemSiq7vZ3Aq6skIzT-W3svzLzLyimJSTOZ2YpOs3DUwKf2hnSwJiSRHkRk1CQd9me6Lq1RExPUd9xLY6IhkAn_-e3g0bJ85-M2ntuFcpH8w5Vm4QH85gjaug805ZYxRY0IKdbdP4yBhW348MV0X8nM0v-hfgKvmbB0G1wSten1bmLlkJU9dLDYIshdIqVYGd8rv8RemUnBi34yt7a1"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1702457390.060553,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -110,20 +97,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678699640.937352,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0OELXIJLkc4ppwWPA.AWXXZRuTGExm9wBBEOFsiyxxRsA.BjmDxZ.6L.AAA.0.0.BjmEV5.AWXyOYDTL14"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671528595,
+			"expirationDate": 1672011301,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -136,6 +110,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679182295.68977,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0OELXIJLkc4ppwWPA.AWX7q-obYItAs7iOR_51hakqjAg.BjmDxZ.6L.AAA.0.0.Bjn6LW.AWVnRDeLJf8"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -144,10 +131,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670923771650%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671406455280%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "18.12.2022 23:31 Farm Dia 3 (Sub Num)",
+	"lastEventDate": "18.12.2022 23:35 Farm Dia 3 (Sub Num)",
 	"amountFriends": "",
 	"screenname": "Astrid Moreira",
 	"birthdate": "1995 August 23",
