@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Adriana Bezerra",
 	"birthdate": "2001 September 15",
-	"country": "",
+	"country": "Guarulhos",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671342294.079722,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASSEB8LhlZYotKj_mlU3KFLBtBD9IlebSKeEm0YJijBy7OvyUXk4ccLfFLOBBB5V4NZHQ_JapZMB-ODZrq7jfhufqy3uwpD5vZ-CNuO1MGT15XjZ88jwYAaBooTsVn6rLyXguAy2t7Hxn_KXu0O0JsXKtE2AKFriS6NkjPmGbBFHLC1FZgtdnf8AoCRLltMJzwkvi1EgT-iv3LuSWA5FB4KqqgbHOcShAbgN0jgc4jQPu87Ce-UMlj499SyJEpZq6gEv8ZpTvWc2uDBYbCOfl_8FPtgTOaLu2klImf-xKtz97Cfv6nrZudiE-bIQMj5Ucm-xMTq6guxIuGngAq61"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678773128.935178,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0ghRe2GnimMMrwfwJ.AWWfwKeI4maKvgzme5zwPsWhU2k.BjmWLE.Ya.AAA.0.0.BjmWSJ.AWVj8DZnLBk"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671602046,
+			"expirationDate": 1672016603,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -137,7 +111,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1034x575"
+			"value": "1034x518"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679187605.293759,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0ghRe2GnimMMrwfwJ.AWVhSCi1ahVfaJvC47XCe5KxK6s.BjmWLE.Ya.AAA.0.0.Bjn7eV.AWUJj67H5MI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670997250492%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671411778568%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.12.2022 00:59 Farm Dia 3 (Sub Num)"
+	"lastEventDate": "19.12.2022 01:03 Farm Dia 3 (Sub Num)"
 }
