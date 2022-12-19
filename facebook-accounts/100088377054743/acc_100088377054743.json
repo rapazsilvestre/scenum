@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Lorena Carvalho",
 	"birthdate": "2001 January 21",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671360052.415966,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASQGf5FuncJZikpK_O1ExcM-eTNcq5bGvj1tibdm2dQkVGqtvy9IlY3CjkSxxkKr_BfVuk7lrru4ibfqoWRF0QADBgOI_UjKYzm46H2Iaog5YdgA4ot4YFVSgSluyqzXNEO6s2SL3uNNk357IhkogCfveXbTo0fuWadRb9MU2KBcQY8H40rBlhAGq7wxuWqQDzIYdQ7cHIrR_TBGgm45yk8G0q8Zzy615x9mYKwLE8ARfAJd5fu_jUk6bnQ1mbV7F0S4N_Jz7y0ZNto67NNsnjOgX5suxHsMm8g59yi_Zh3PMoAkvwbPFH4zxIPRlRi-cbWqKK2LswaMdinNXZxJ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678791010.441876,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0xQp9wKCsVd8EM8lV.AWW8v6-pLc2EMsc66YJ3Z4-BBx4.Bjmagi.W_.AAA.0.0.Bjmapj.AWWwEX3YEd0"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671619960,
+			"expirationDate": 1672019067,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679190084.008451,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0xQp9wKCsVd8EM8lV.AWVAgspEt_YOLCzRUHDPs7ptbq8.Bjmagi.W_.AAA.0.0.Bjn8FE.AWUiS5qg_hY"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671015133964%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671414238187%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.12.2022 01:40 Farm Dia 3 (Sub Num)"
+	"lastEventDate": "19.12.2022 01:44 Farm Dia 3 (Sub Num)"
 }
