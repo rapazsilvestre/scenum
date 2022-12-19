@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Marcela Godoy",
 	"birthdate": "2001 March 9",
-	"country": "",
+	"country": "Cajamarca",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671350058.552933,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASSEHXpdoDAAd60hPLkMsMT-n1ZUQY3HY5XYqB30QJzgGqIaXb-shxNhTGMJ6rwyNT8RDg4Yjag1eDtxDsBoy3hl6QKOdmNuVYFN2WPEGhUoAE8Q9HpuU10tQ2BSkuk0VUjbFWMXj24mcd4ugraLyCFQ9UkKZkWpglf-ftaglVQEMJT2SlsFeULc4zb1rrL_V6VcZqgG8OC3DWWYkRNoOvYqTdt4coK6I56D3VfTk2ThowO_2LzNI5LoTzjLiRWCqIa6zRa5dMNs2uT93CcVZzwaxQVgNUgyTkTYfRr4iwGEwV6pgYuldvvup2gTETD2OH8GMj6DvmeRWWuNrPIl"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678780932.294023,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0FXpwi0XQgp8tqCHD.AWW2umycmV9DZ7vWwTFy1OtI0pw.BjmYEa.jJ.AAA.0.0.BjmYMF.AWVhhq1D5rw"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671609917,
+			"expirationDate": 1672013795,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679184816.017324,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0FXpwi0XQgp8tqCHD.AWV_WpteEfkHtFC1tiS1FAM4uBM.BjmYEa.jJ.AAA.0.0.Bjn6yw.AWUD4hoQRqs"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671005073386%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671408969616%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.12.2022 00:13 Farm Dia 3 (Sub Num)"
+	"lastEventDate": "19.12.2022 00:16 Farm Dia 3 (Sub Num)"
 }
