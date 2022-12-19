@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671998726,
+			"expirationDate": 1672022509,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x580"
+			"value": "1366x620"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679169685.651459,
+			"expirationDate": 1679193546.445156,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ebutaD2CBoq7HDPZ.AWX_TnLaUMoqIW2Z4wigs7eOe5M.BjnlgD.AH.AAA.0.0.Bjn3GW.AWXwyFj6rNU"
+			"value": "0ebutaD2CBoq7HDPZ.AWVXo86lqgY70WRI7DutckJaBZU.BjnlgD.AH.AAA.0.0.Bjn87L.AWXzk023s4k"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +149,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671393877485%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671417713061%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.12.2022 02:38 Farm Dia 3 (Sub Num)"
+	"lastEventDate": "19.12.2022 02:42 Farm Dia 3 (Sub Num)"
 }
