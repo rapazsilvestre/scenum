@@ -51,19 +51,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671284458.305363,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASTxhY95xL_PzXp5dbKBrXhoOg39_NdQ5a_37K5yclea9t69zX2hM8Vl8YVG44BKUtZjy0Q3q_thn-K2VuWVEaftb84XoAx9H5ZoGzFnpk3CSntt197htD6LldGfRFHq1y7UbdGv9hgSbFMdQzYValPqH5iN0N1elnMq6Y6QYkqvkrAF_GuPfDegBz3fFOr6viEYruH0BwSNi-A34op0-nlW485nZmyXbjq7rRlrnlTvYsmFGYJxN4KDDkyjkeMp7DYnahu5_VRnhqNDotxtIgKBCVh9CgfA13yAfqWTV4Tu0UEHZhO9lpjHFt26CMKFJtLsXI2dPQOCl4azXGzc"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1702474929.760485,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678715290.626391,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0mb2nlwrf4be2Sc2G.AWX46mr4rIHis9OwlF8CTpH6Qn0.BjmIDZ.mc.AAA.0.0.BjmIKb.AWWfHGxsJwQ"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671544371,
+			"expirationDate": 1672020687,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -137,7 +111,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1034x571"
+			"value": "1034x575"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679191683.400145,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0mb2nlwrf4be2Sc2G.AWUrvyBt4jnvuUffo3EjgtTXBHg.BjmIDZ.mc.AAA.0.0.Bjn8eE.AWWCydopfao"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670939574516%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671415839935%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.12.2022 02:07 Farm Dia 3 (Sub Num)"
+	"lastEventDate": "19.12.2022 02:11 Farm Dia 3 (Sub Num)"
 }
