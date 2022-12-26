@@ -51,19 +51,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671131661.574158,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "AST6eX_8Z1uT1lwoRPBrz5O4mMVVXszKDDpIENRZP9BEoFmi-1VP62wOqbelq9p7w8pMUpjpEP1m-ipAmOsFzUoCumZkBdAe69leX2XTJBDTmhXSXCzXgr_aQZ2LRPZOarrXKKkJdoekk7H1rTHVoaNf1bcgailvtD_8Xjwj2OVu36mjh_BBmCJLFcrrSPv0mXcVjzSrwYymcBfWlhYxWFuQHqVODesr0XAnFnDr-MRmkhVBW6kDcfE4-jCjINQ_AQsK0D-i9seydsfw00XwO2rxcmBIDYj1An0AQC3Sb6vyFlDxc0YTYODBbN0yPvIriPmnvNc3ujj-6IC--ar_"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1702322133.661187,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -115,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671473356,
+			"expirationDate": 1672703292,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678644247.804121,
+			"expirationDate": 1679874338.115989,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0BBjTej619zA7CI8h.AWV2H21WDWnK2IThdrWubyHhBXs.Bjliv8.8p.AAA.0.0.Bjl20Y.AWW7Mbm8PwQ"
+			"value": "0BBjTej619zA7CI8h.AWVVuKX7ctpv7M6oYE2D1Gka56k.Bjliv8.8p.AAA.0.0.BjqjIi.AWWoSNgx06c"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670868558533%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672098486753%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.12.2022 23:45 Far.D3 - Substituição de Número (Ações manuais)",
+	"lastEventDate": "26.12.2022 23:48 Far.D3 - Substituição de Número (Ações manuais)",
 	"email": "aenglishya8ye15ea@outlook.com",
 	"emailPassword": "a8FyHLaE1",
 	"imapHost": "outlook.office365.com",
