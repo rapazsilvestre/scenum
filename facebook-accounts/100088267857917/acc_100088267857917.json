@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Leticia Gouveia",
 	"birthdate": "1992 March 11",
-	"country": "",
+	"country": "Jesus",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671241685.989415,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASSo7l_0fQAKTrqtZMxqxzu4UdrBboZ161nR2qsEReIRcTS564n_Tn0F9xYn0mWqJah4sjsVbiJoEAp_A7YVvue5n3tvf9NKpDCkWD_ydMYWe1HScIQhXTHrMJKI7YXfZfvAyoOd3FYaQDMVaiv9APr9AyiXYZChfNJ_vzchSJhNiihX9rMyd2sTTZsjCike9vMbmRFWs-3n1UTKe5t6T_cFg0xiU5w-bi7PL4y1v0BEsa_SMP0fovLiRrmYuU9-zh3Rkp5WswWuSXgknOIwZPX-2yBdu3pnELcqgIZoHW9oHnmxQaxg6jyWqe1jb7ms5EqHxEspBD5UidZEn1ao"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678672546.755342,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0TQwNCm8OLvAaQdv1.AWVkyGr2N5-Ve_bXZvxR3CmUBpY.Bjl9nC.ch.AAA.0.0.Bjl9uj.AWVmW1i-mFk"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671501482,
+			"expirationDate": 1672698987,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -137,7 +111,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1034x575"
+			"value": "1366x657"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679870000.214095,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0TQwNCm8OLvAaQdv1.AWWQozkSqN6HVt9jOu22VLMxLwo.Bjl9nC.ch.AAA.0.0.BjqiEx.AWUp-nWBzdo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670896685533%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672094161453%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.12.2022 22:32 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "26.12.2022 22:36 Far.D3 - Substituição de Número (Ações manuais)"
 }
