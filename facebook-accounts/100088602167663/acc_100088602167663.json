@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Kate Lima",
 	"birthdate": "1989 July 30",
-	"country": "",
+	"country": "Sul",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671627670.119901,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASSpZOgXgyb4FZX1B5bVpVl6a2E-wCfKNlEY5YlyeR-GuGoQTPhWQ1ksnXiEuIhERZjD8_IQom9y2DqOTQWOEl5544pxSa7JGt-147W6iZOElLHxCHWU6XpFTB0wrO1IjmoEdlhsDvRtshvDc4pyNBAh8nITsOxugEfRV3FFxojTMDCUaHS6fdlwt-NFltJahuITdjMoPjHLZwWCNr6FRkgo83W44Mj1HpkC1MlBNs57w_Gt7sLLFAZ8HpCVT6AADPX7e8dGSMZM-f0phraAlHj2cau7a6CMv1O-VhSPZLm-Ivgbso0Z6kANfzo0AdWKJyqDCA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679058476.9921,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0PZ7GuE9K6y4LMta3.AWWXGhxnOju1QkgGoFHoMjfNXZk.Bjnb2F.K0.AAA.0.0.Bjnb8t.AWW5v1uKG58"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671887447,
+			"expirationDate": 1672715726,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679886771.488647,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0PZ7GuE9K6y4LMta3.AWWa_CREkLhcBVOk-vv15aFTDdg.Bjnb2F.K0.AAA.0.0.BjqmK0.AWX310U9jqw"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671282602816%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672110921701%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 03:12 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 03:15 Far.D3 - Substituição de Número (Ações manuais)"
 }
