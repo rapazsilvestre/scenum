@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Marina Pedroso",
 	"birthdate": "1993 December 12",
-	"country": "",
+	"country": "Paulo",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671651857.529106,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASSrp-zpQnbCM_pXbfw0IMKtN1LnVHjUWhWXgQ98zx66Uhw5nVZLoXXAchVzxBRdkMy_FT4l5chUD90uXN1v536tpbBq6OtNP1ZJALAJvjfNR1Uqtg_-R65g0Rw7E3dYRnxndoWCvkrfyUYhM8FP1MALqIYcOPZRlP21uN1QP4z5Zh4RfHHrTmue6FUq9JYexgukZHdaYCNsBB8n36foO_8p6RGB9ma0OOaZOuTbJLxw9LlxHkD1pucPxI8xRFAhEdQviCaxtJVC764l_eua3pLukB8TMl-Glho97iAR-Eo8eJIorxqJoZCPz2f2ySU9RbMG"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679082767.270624,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0RftBWOWv5idvrDs0.AWUf28Z4OF3IPJzFuE07ogjiRo4.BjnhwB.Cx.AAA.0.0.Bjnh4Q.AWXYiC80OUg"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671911754,
+			"expirationDate": 1672776622,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -137,7 +111,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x580"
+			"value": "1366x620"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679947606.579939,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0RftBWOWv5idvrDs0.AWX7V7YU9aqXRZKlS2bDP7_WB3Y.BjnhwB.Cx.AAA.0.0.Bjq1BX.AWXth-quDiU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671306911384%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672171827202%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 20:06 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 20:10 Far.D3 - Substituição de Número (Ações manuais)"
 }
