@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Laura Moreira",
 	"birthdate": "1988 August 19",
-	"country": "",
+	"country": "Jesus",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671354198.345371,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASTMCaJ193IbfV0GI5eFoODWDDFDmR0k8cONxjot5J5KOstmF_MhEPPsa1VQ9LF9jblpr8m-Pn2laE1dCJKsbmbcQ0lMowFdD3GpCficNfFD-dl1ktqTCilk4sRVaJtlbg2lyTBN3B2-rSVbAA4TZJOENMVJXXBk3eP8dCNvhmMpo96xX3n2M5YDasM_iXQxN-CNEL2bItKPpuGCtimQwDdJwHE0ooLqB92ELMMfAKlXRiT-fHRiRwWJFh0u2ElSXg2I5g_lLULgB9fDkfiu2u8jNbHikZEIc3WTQMMcFt_Fp8HeXFvI0BNImkIjzOpwYB8EVtdIl3CvshlgbzzL"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678785093.077445,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0gpGdzjrWcoV4ZQEI.AWU7yzW7VkI-C6TsEfEGNAovF7I.BjmZFE.-_.AAA.0.0.BjmZNF.AWXte-XmcIA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671614022,
+			"expirationDate": 1672752402,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679923433.822245,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0gpGdzjrWcoV4ZQEI.AWVYNcJYTwXujQBL6hQxbQI_bMI.BjmZFE.-_.AAA.0.0.BjqvHq.AWVQyQt_nqM"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671009225319%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672147596822%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 13:23 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 13:26 Far.D3 - Substituição de Número (Ações manuais)"
 }
