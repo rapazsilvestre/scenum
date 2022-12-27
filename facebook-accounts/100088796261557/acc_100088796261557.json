@@ -51,19 +51,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671633811.191908,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASR8dqqis-9BsbE-4cdQwS9tWV-OAk355QNinQ_LPwHwLalcL1XQd2PKFeEYCquwb8_jQy4RRlCGpZKvEguIBJHMptBgtCA2KHmyk3LQJtaUpCgZVctzuPuSagQcIOwRPumNJv7hhYzZ_cPgzHJc3mWuV8Duj3S_jQUGMaftf7nQspoJgaJg4NLwf7mEccEXqRCLKphlNOQ2i91K7K20DtN7O4Kgaj_jhlzg2KbNEYGRzXOpETv6fPcl3G6LaJTFpuLgvhk4TUNd2yYAwW6gaCLJ6vlFWj0ZbgBh04kWvM4mA13CADKZizLDPSEyWTCEfIV7"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1702824276.443408,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679064617.224274,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0tVBn1GsvgmShoaJt.AWVG4UgTWtZ7odjnJZ-FcDW2vhs.BjndWC.eq.AAA.0.0.Bjndcp.AWWBJ_LJyeo"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671893530,
+			"expirationDate": 1672736412,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679907417.147591,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0tVBn1GsvgmShoaJt.AWVlJkXaaWivZ-bbMFuhkuCuaKQ.BjndWC.eq.AAA.0.0.BjqrNZ.AWUNtV89dwo"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671288746040%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672131567262%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 08:56 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 09:00 Far.D3 - Substituição de Número (Ações manuais)"
 }
