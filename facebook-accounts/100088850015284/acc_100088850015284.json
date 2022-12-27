@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Thamires Domingues",
 	"birthdate": "1998 March 16",
-	"country": "",
+	"country": "Rocha",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671346501.350602,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASR6e9g_LAZxKy7LU0mHKIXmZ1NqN3iu6GtqTC_y4NOylhAblYQ1yuawH0CZuRqjutVR4WkLYfvFhqXqGx4xEitiK4hoaHpp26PMejruxfEcP0RK1FhByt28rZ1TqFB76Vlqrf0GEa9uVbM63ds-RKD0EezXmeTJe269LygQoSf34Hn1tPveikzqVKpJiVtvnfbx-FtbqSHO1kcL7xLcSUnnplvCkX5qM_sW7MPpSsxgV8M94Z-Jun_hb_Sv9LpHrK3KumjPXwBfeqaMX4Mmhgvf1Ynk-6BaEmIhWFOQ8gccrz0KfEuWC3O0AZFySjGup5nboKTJPVtEH3bfyaNR"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678777347.586607,
+			"expirationDate": 1679919167.658167,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,11 +111,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0pd2HHUzKRYB7sTqY.AWXfHEAGh_vlt7wSMZ1bCznhWF4.BjmXM0.an.AAA.0.0.BjmXUE.AWWx7Db0-c8"
+			"value": "0pd2HHUzKRYB7sTqY.AWUCR_MUdgDUHErxwdpQzye3bqw.BjmXM0.an.AAA.0.0.BjquFA.AWUM3Sric2Y"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671606307,
+			"expirationDate": 1672748124,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671001480753%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672143327624%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 12:12 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 12:15 Far.D3 - Substituição de Número (Ações manuais)"
 }
