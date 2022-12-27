@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Marcela Cardoso",
 	"birthdate": "1991 April 12",
-	"country": "",
+	"country": "Paulo",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671260688.37157,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASR2pxj9KbXmL6eww8I_ZNV_2_i8rcd7Sx8OuGbj12q09zGEUcg89P6ZsJ6Fi4dkzkaSExGW_W2JOS9HBaHAiANRCaftBQ5an-e5gAUByD0rG7AI4bF_izGQjkkuBlE05a1j1uSLbP4qfZ-qNNgEvsqqMtgGf4LJYmkvMsoiOuejIQ7waJaf16QAB9Q-orkyYJ3bN9q3NbXFpqPF6BEsj7YG3jKMTBAy9n7YZjLFFoEwaBTwMmSnkPBECCbXLSSagPEtHl34GjEVoiBSN6fQx8O1KDYlcNMUE3iPTYl--gq7B6witI4IknoulBPhQliZdqbm0dfRVqw8W_NNQiSa"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678691568.174028,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0tkC6Bbchl9Aotm7q.AWUjCoRLXNtyXzmvW0evewFNWz0.BjmCP-.SR.AAA.0.0.BjmCXw.AWU_A7nCEqM"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671520494,
+			"expirationDate": 1672765508,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679936574.995265,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0tkC6Bbchl9Aotm7q.AWU-LI95ckE3NFIISNnZLb5C4Yk.BjmCP-.SR.AAA.0.0.BjqyU_.AWXBFhUYz1s"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670915706320%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.298726880145009%22%7D%5D%2C%22utc3%22%3A1672160701372%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 17:02 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 17:05 Far.D3 - Substituição de Número (Ações manuais)"
 }
