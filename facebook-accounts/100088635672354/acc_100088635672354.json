@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Maria Letícia Freire",
 	"birthdate": "1988 February 23",
-	"country": "",
+	"country": "Serra",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671246269.616536,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASSGXxkJZQX78xNRE5zLgJ-P9kCjYwCGPIlYj9JCg4KycTetQQhIbdjbgQn-Sfr6rAF42r7Mm2PK7pwlyFykxRscmwLJovltsuZaZhJVLRbyBh1oETiYcbAJ-iXzl6cAbRE-uVChmtY9Oam_-tFuVjPXY1ZqL-f5CteNUTNacEueYO8QrFadM8f8V7O849OlVYmBn353o7LxVmCPpbp8N7LWbpOeu9syetAiVh0J4cczyOS3YdX86fbylwQLUYDxQhMtiVEqKMsxzWM8mG2ViWHjU21ipJ-EKYeqgzvcZ39razsxAs01RaifR9yUHk2C9mhDme43A1AY3as6wNx6"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678677194.75677,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "01IFutFtuAdIdsfNF.AWUzhTvogUp6cGtRW0_hC_0rZP4.Bjl-ur.Zj.AAA.0.0.Bjl-3L.AWX45Mx6UZg"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671506169,
+			"expirationDate": 1672723634,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679894685.537934,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "01IFutFtuAdIdsfNF.AWUEfAzfJZE8TG9FJrDNLycbc-U.Bjl-ur.Zj.AAA.0.0.BjqoGe.AWUaoEwrmus"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670901341676%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672118830566%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 05:24 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 05:27 Far.D3 - Substituição de Número (Ações manuais)"
 }
