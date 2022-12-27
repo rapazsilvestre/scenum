@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Stephanie Campos",
 	"birthdate": "1991 November 6",
-	"country": "",
+	"country": "Cajamarca",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671551060.047782,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASTfv_N0CPiT7lBMDqC9uqlQiKLi3IM02jEURXBwUM8a47NdQ_oGXTSuAwU9P7NsdyvUP1BXRZJFC3pHp2KVV7t6PcMVzj7vhIr0jBHgcY4bM6MrhOevo2hNugOBZf1QaMnAhF49Ko7gUpY6b7IhQyK4aphDJ1h9abjt9veJaLtBOGnXWvUOWkVDpkdxdisfHtp-qvZaEtIKyHLLfLARUEuTYJ2MJUnjhkDMsmBx4xP-NWfz-fpW8bUY-M5X-G7nZka90QGcDvOyo6awyHQWOcUerZHftdaSAP0Nuf99s5oYgRnJudIWEZ-mIC-5Y1IJA4JpXsA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678981836.720709,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0ilDV9WssuJfd1BS3.AWWhTPuiikm0n1sR5eBw01uJD1Q.BjnJJE.St.AAA.0.0.BjnJPN.AWUvSvVJgVU"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671810794,
+			"expirationDate": 1672769948,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679940997.025813,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0ilDV9WssuJfd1BS3.AWW6FdM2WW5vNfbwZozHutq0J5o.BjnJJE.St.AAA.0.0.BjqzaF.AWXdngqxRvE"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671205974489%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672165123172%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 18:16 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 18:19 Far.D3 - Substituição de Número (Ações manuais)"
 }
