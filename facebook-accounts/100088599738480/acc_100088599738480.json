@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Nicolle Alvares",
 	"birthdate": "1997 February 5",
-	"country": "",
+	"country": "Sul",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671665023.334953,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASQ1JWrXJW9Dd4Oc0wnHt2gweLmJ4YOhmcOslmhg_-SvGSVCIv3D0zbQL2jphD5-fzEg11nVzF9hiBWqGk4w7TLAYs6eDn8qfOedwD-L11YqV0iAwNFW3rQbujqOrDTxmGuYUia2pXkg-DkBsCXqaL-n08RRq5bNuZXBL6u7p5w7f70LwWq7Nz9ZGHG_49DpllRK0JPcXEF1uiV7oRBHcmZi---W5YkYUJeAGhgiw5C5QVBo1rf7aHPkivvZd6z6TKbqkUUAGk1X_GDaeKyLz2SignjOch9UGirMmUfIKbhZoxeankNMEgB0TKiI0GlocvygoQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679095860.400104,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0UKN3jeSEDpSOtHZ1.AWVS-J7UAaK4MxdNlmo5QZMVmV4.Bjnk9s.OW.AAA.0.0.BjnlE1.AWXUIsqxB3c"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671924830,
+			"expirationDate": 1672713976,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679884976.493846,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0UKN3jeSEDpSOtHZ1.AWVa8x_kqzkl_R1j5GWsbjncIpY.Bjnk9s.OW.AAA.0.0.Bjqlux.AWUxWleWN0I"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671319986768%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672109149115%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 02:42 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 02:46 Far.D3 - Substituição de Número (Ações manuais)"
 }
