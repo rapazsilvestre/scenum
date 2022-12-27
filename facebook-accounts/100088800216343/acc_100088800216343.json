@@ -8,12 +8,12 @@
 	"amountFriends": "",
 	"screenname": "Angélica Pereira",
 	"birthdate": "1996 February 12",
-	"country": "",
+	"country": "Serra",
 	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705448973.393176,
+			"expirationDate": 1703027427,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "datr",
@@ -26,7 +26,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705449067.604621,
+			"expirationDate": 1703027427,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -39,32 +39,20 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1703027427,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "m_pixel_ratio",
 			"path": "/",
 			"sameSite": "unspecified",
 			"secure": true,
-			"session": true,
+			"session": false,
 			"storeId": "0",
 			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671234592.617445,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASQ1avvaMbXDGwtW2KtErMeIw0V9B9SANzrT0Mqq1UAJfi24tdOdOuTDvqRqhcPUfzkLdYptNh7D4V5CmRrrQ6TmuxIVi8TGBTX6xBwNS-95cnsE1Tx0PNM7T1O6XSoOBSJOguLTm_f4sjaMyWZlUpuMKY7d_Rd2LpkdT2wIfTIot4e6biThU8TQnHWUUU2osp6EVhpGeevh0C7snpeushPPH6B7RGBZKDRwKZUQcViRFOVkLXJCzAJCAWa6inDSIrl-gXF4WXkjBKgv_b2xPCoceESQ74Yx747P2Pq008p0syK09KiYnBBQnb_LT4VpDzkhVdQGoo6jhr47TFo"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702425059.604643,
+			"expirationDate": 1703027427,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702425059.60466,
+			"expirationDate": 1703027427,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -90,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678665069.809472,
+			"expirationDate": 1703027427,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "m_page_voice",
@@ -103,32 +91,20 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1703027427,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "x-referer",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
-			"session": true,
+			"session": false,
 			"storeId": "0",
 			"value": "eyJyIjoiL2NvbmZpcm1lbWFpbC5waHA%2FbmV4dD1odHRwcyUzQSUyRiUyRm0uZmFjZWJvb2suY29tJTJGJTNGcGFpcHYlM0QwJTI2ZWF2JTNEQWZaa0RCZTllTGdoMHUtbHlDNTJJTG5PMVRvYnRXSUJSdUNtQmFMR1JBVDhiMHFYYktrMmw1V1V4UFhZY0dtQ01iUSZwYWlwdj0wJmVhdj1BZmFmdVlrLTdDUDBDZTYyR21DLXJQVS1CZFVjWmk2TkJkQVhpZE95aUt3VlYwVGU4dU1PdVNZam44YkM1Y1NoTTFVJnNvZnQ9aGprIiwiaCI6Ii9jb25maXJtZW1haWwucGhwP25leHQ9aHR0cHMlM0ElMkYlMkZtLmZhY2Vib29rLmNvbSUyRiUzRnBhaXB2JTNEMCUyNmVhdiUzREFmWmtEQmU5ZUxnaDB1LWx5QzUySUxuTzFUb2J0V0lCUnVDbUJhTEdSQVQ4YjBxWGJLazJsNVdVeFBYWWNHbUNNYlEmcGFpcHY9MCZlYXY9QWZhZnVZay03Q1AwQ2U2MkdtQy1yUFUtQmRVY1ppNk5CZEFYaWRPeWlLd1ZWMFRlOHVNT3VTWWpuOGJDNWNTaE0xVSZzb2Z0PWhqayIsInMiOiJtIn0%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678665423.061097,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0S8A0hEJ2N5LPEGnz.AWUqoma1qHhi5Kf2URpFoGci65U.Bjl74P.QG.AAA.0.0.Bjl7_P.AWXkeN86tEc"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671494394,
+			"expirationDate": 1672740740,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +117,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679911762.706749,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0S8A0hEJ2N5LPEGnz.AWVvo0lsY6zX-ySOKOhxs0wkwMs.Bjl74P.QG.AAA.0.0.BjqsRT.AWWZy-aUG8g"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +138,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670889548633%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672135913626%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 10:09 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 10:12 Far.D3 - Substituição de Número (Ações manuais)"
 }
