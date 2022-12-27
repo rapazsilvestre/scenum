@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Nayara Caires",
 	"birthdate": "1995 March 1",
-	"country": "",
+	"country": "Arujá",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671344539.704521,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASRoOH9XBzdMvs4bsJBYRXipZX-MTKdGJYEiwlsRqzSzERgCkjWEphcIQbEHaWMQD18lOS1ex_8wQYXRtaPxFs4sxA7bzUaeNp1tvMDELZAzC1VZXB44Jmbt6uQEAdCW3JnJ0FDWKVOvQKnfyEbO2odH_dZIigjgpf9btljxZNVl5C1288DPnzlmxo5yOh4PBaqWgqvHCYTV0NFLt4yMQDuSc2CiFxfN6ot5-rAcGH6o1zdxzy6HGNeoPahyEJgi_lkjwbytJJpUFLMVAVLFX9qLi9q2Z2EkanUC7aSlCS4BgMJR9T2sGrrXUdzB95CvfZKid11dAlaFIideYj4R"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678775389.274096,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0vZUfiS1vXECpEmSg.AWUt1QLKGvdmEoAM8gDgfq5EOdE.BjmWuK.iC.AAA.0.0.BjmW1e.AWV9BF2IeHU"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671604363,
+			"expirationDate": 1672760302,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679931316.516224,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0vZUfiS1vXECpEmSg.AWXXlu6YkOLwgqXzfcXSHGm_5o0.BjmWuK.iC.AAA.0.0.BjqxC1.AWWZ-WoNIkk"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670999536101%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672155476207%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 15:35 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 15:38 Far.D3 - Substituição de Número (Ações manuais)"
 }
