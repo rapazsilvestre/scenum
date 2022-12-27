@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Maria Letícia Mendes",
 	"birthdate": "1997 September 11",
-	"country": "",
+	"country": "Serra",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671322493.196398,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASQgZmhDxM0hse12ATSGzuz-IyeVl-VdI4f3iGVjLxtzekzoF2WzDIBT6B-PT5FvdfxTChrNlzmq2KhwVWxoB5UV_3hUjeZpqJR_n_FO-z69d2raeQFNRjM_5GDsL5W2x_Se7T5ppgb9-3tOuk8GgrNG42mvsNlv0FpcdEfWQ4wp3qumrlJQey4gSic9snli7NhrlK4IMLpldYIZCKVlupg33Cudzt9sSJYg8UsgjarTkNtVeauKsQWiwcC57YR9A3B8HZdcOQhLkwv0z5BhTykPFZRvdAE7cf1bWIJWXNCnnk2wf2FWD4PsCjdrSSxp4ndHxoy2CccFd-F1dWg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678753378.992053,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0SVOcQcEk9IhWNgbR.AWVzv6M4uc6cxWc4uty7T-NeX_8.BjmRVs._r.AAA.0.0.BjmRdj.AWXkYxUffxU"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671582295,
+			"expirationDate": 1672730543,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679901558.260138,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0SVOcQcEk9IhWNgbR.AWXoTTdVKLU-S6OM6zoQb8CFXVo.BjmRVs._r.AAA.0.0.Bjqpx3.AWWcKFWRbc8"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670977499758%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672125716847%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 07:19 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 07:22 Far.D3 - Substituição de Número (Ações manuais)"
 }
