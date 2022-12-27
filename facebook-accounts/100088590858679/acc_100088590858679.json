@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Aída Dourado",
 	"birthdate": "1989 February 24",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671631901.760827,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASTKuoQTrGno26VEqchMAR_VoeCN3_hPQ5mHcJixMl215hY9vJJt_6O2i1mDRSxY0sxcev75puF3FV996GR_p6_zOkWaymFH_mxKAZtT6YQ8brfYy_HAcYqoufjYZnTop2V1v_gMjzCkDC720GAf9AAZXa_jfC1YHWKw_czLjKUzdLVm5-GKUoJO1z8-wewmSVuwKf2Q4Ti9LRVh2KSi-acm3ePCdyXNWf254m8sXfCMR3BxD11d4di9xGvajd7pSRsibpS0-jwAUkPhU7Vtwt302pwiDCwFP0QOqJiTIt3yz5pk7P3kf1zskHCAQHO00f8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679062720.910496,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0NZdHLjlztALYHO0I.AWWscSNC3qFv-bB6X7U91IsMg88.Bjnc4D.-b.AAA.0.0.Bjnc_B.AWUb5U1lDPU"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671891629,
+			"expirationDate": 1672709253,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679880310.313517,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0NZdHLjlztALYHO0I.AWWphQKbhw-3Iflgh_DqzZtPeH4.Bjnc4D.-b.AAA.0.0.Bjqkl3.AWWgHW66xHE"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671286832386%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672104450136%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 01:24 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 01:27 Far.D3 - Substituição de Número (Ações manuais)"
 }
