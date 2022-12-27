@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Cintia Nascimento",
 	"birthdate": "1991 November 17",
-	"country": "",
+	"country": "Morato",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671553490.951061,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASQR4QhZ4VSZJWCsoyXBI6Hb35YBqz9uslS-00ktV-Q0Y_dZfFTTuJ581IbIOUS3pGLkcTHqRXVrVD3YFniWsOY4dYGwRvl80c4-m9h7HCydsiOGYzHkdpgGFpYDfBd5tmu5EVkwEEEFtu4CrGTJEjSkZfYnksA688IvYkpnkBOSlO98qSaY0iPRe7pAu3b8NRh3lrwKaBOkD30l6RdqINiBaHoXDMpQs1_rIfd5MInOJqfWszoJ_3q3RGQfrbleM3-2V0xzULyWOhHClgfnCg_itnrrYypuvn9ewAPfWJXpg92MZ7qfQxNiMYEW3c-0tN7Zyw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678984412.007123,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0U3CyhuejyUhDW7Ts.AWWJzMNubVFRubHd0bOsMwWzDzw.BjnJvC.B4.AAA.0.0.BjnJ3c.AWWeMlMw02I"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671813399,
+			"expirationDate": 1672775105,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679946122.760704,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0U3CyhuejyUhDW7Ts.AWXiJcnxYhzDiPb-nKosAQgK0_4.BjnJvC.B4.AAA.0.0.Bjq0qL.AWUy1KsTFmY"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671208554256%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672170279273%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 19:41 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 19:45 Far.D3 - Substituição de Número (Ações manuais)"
 }
