@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Gyovanna Pires",
 	"birthdate": "1995 January 12",
-	"country": "",
+	"country": "Sul",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671340374.396237,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASRcdqHbZxFEgQyjqdnUQ9h86hmBkE00rYLOyaf-ejoStNsE0kKHAyjak9XvQ6HsGUxvjpxjCQsWsEFsmdJXis0oPxurgRsC9yFLFsNOxi-8P7EX_BLHwGfbIswRI6_C9aQ50bXZcvO3QNXaIhKnrz3XioxLpqddQPkOHdtKL9dAJVrI-a-pc3dWHqjtZtJkPSrOpZ11DJnkmmwOh508ECAXpAovFW0w9-j0s9pipIxacHgMQ6aytDlaAPPPjIcMiJUVHoXKW17qwcToJNar1e7Um-MfE-rboJ2gHKQe2PFcqzikydFlKla2iK3lIxoQcWezW4XwuH5kFxDE1tNx"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678771259.484002,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0rh1gdeaYpnOcR3R6.AWVfvHiupi4mqENlsG17IeXGt0c.BjmVtF.xh.AAA.0.0.BjmV08.AWW1Ei_3Pms"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671600182,
+			"expirationDate": 1672738435,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679909452.650816,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0rh1gdeaYpnOcR3R6.AWW7b5eZ8B3L9N8Yfz3-rr5Y_pg.BjmVtF.xh.AAA.0.0.BjqrtN.AWVYEG3-tUU"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670995397093%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672133608957%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 09:30 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 09:33 Far.D3 - Substituição de Número (Ações manuais)"
 }
