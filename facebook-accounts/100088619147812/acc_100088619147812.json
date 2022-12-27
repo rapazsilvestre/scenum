@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Michelle Alvarenga",
 	"birthdate": "1995 September 29",
-	"country": "",
+	"country": "Poá",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671658332.949554,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASQl70w-fGU5w5OzDcy7xdfS8soliVK6yJmWP28DTF27nKc5xaExpWJNpLJ9ctGcdmWj1OT5siEdXBLakJVjAGuvqfES_ILLdJ0yAvC58EzTQP3Y2vb7jc7mCHliJy65oxMIH-iVM7mFZmOItJr1VvWU3WWTS4I3pccqGssEPu6AIFHm3vmGM5w-qYm1K_xl8aeLvfy0GzjLkLe8TnyyIEHQtmcKTiDNls-aHJ2fnMMnbaK47AG2HVB1u0tXYy2NT_tys4p574aa_YqiUD7wUFyBuAeso9c_8w8zn4TC03PSJpJ8tjbEWBDbDh6VxPpDOiq4lWk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679089152.465299,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0Lcfp9gOsthW4CfPr.AWXK66-K0l5aVNRushJGP7VO9d4.BjnjVM.9k.AAA.0.0.BjnjcB.AWU3yGnlBks"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671918107,
+			"expirationDate": 1672721434,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -137,7 +111,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x580"
+			"value": "1366x620"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679892425.837177,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0Lcfp9gOsthW4CfPr.AWUVDOX16784I2eoZ6LmQijDnvk.BjnjVM.9k.AAA.0.0.BjqnjK.AWXQmVQTre0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671313283283%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672116604392%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 04:46 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 04:50 Far.D3 - Substituição de Número (Ações manuais)"
 }
