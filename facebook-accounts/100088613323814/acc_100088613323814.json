@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Andreia Gouveia",
 	"birthdate": "1993 October 28",
-	"country": "",
+	"country": "Biritiba-Mirim",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671330854.059875,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASRZ951Z0n-ux8hxKoRYQ_gJmKStLkcvF4HjiP9KbhMZBNzEYyoRvsqeYEJxuxYk0pDD1puowNdapr8AiUaslgvr0D9H1CuWd0T6bnG5iGs2zGlwOiM3LvSryFHUrNrq4aCtzBjbwXcwR073GMBgyRcChrFkKTDw4hOZpVlnDZhWhtPWzqxyu0mTGgpdpdZr85BT2uu7R01rgtZu5vQ9TrxKdn4kR6uwsbZOX0uwF41lmjgGUlIcC7NO04uk9VbLUGEHm72-FXt0ZhhRc6IqkzdZoF5EPu3ksjEoGQMc8bBvKf_fOWKO94h-YlnDRZZ0VhE6oKOw67nmnHekiqM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678761708.454028,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0F8BUoh7gh3DKS0mU.AWU5gaSqUDP3w7IfQA4QeVOOgek.BjmTYU.Z6.AAA.0.0.BjmTft.AWXFJEmAxJY"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671590686,
+			"expirationDate": 1672718557,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679889576.229267,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0F8BUoh7gh3DKS0mU.AWX2sSO1W6HvoDaBy_NqRjBOHss.BjmTYU.Z6.AAA.0.0.Bjqm2o.AWXGq_I6JCQ"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670985840857%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672113730766%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 03:59 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 04:02 Far.D3 - Substituição de Número (Ações manuais)"
 }
