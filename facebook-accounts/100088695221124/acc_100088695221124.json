@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Andressa Aguiar",
 	"birthdate": "1996 September 17",
-	"country": "",
+	"country": "Caieiras",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671352067.120269,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASSd6g_CFH544NHPVHvRjOEgmw7BTyaZJsfrAkhgQNArGus4xUZPWaMNBKyfzl7YCRXBDYzssC01kx5WwOquHlhrNV3Jjm_6zyjjNVTSCZv9qCtDg_BJvK_SzZTvHL31plGUNp3D9VDsqA-J2pGbsiK48gBTrSlBnbqbXgdgFLYz7qpV2rlVmLwfWifJx55c9PtCRx0P9MifAFImfMsv24Wr3BxjzAf9jt8fb0bfILw2N95qfhAAM6kLFPBLiX6v4wOmKiKSl6vYyqML58RnwGzpnO9JNRXJtH9xFnvcn1xbhcL3wzJBfLxmfIM3_PGxIm1Y2LBPgz4492JHypDo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678782915.102743,
+			"expirationDate": 1679904188.978788,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,11 +111,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0AncxEbvvkF9li1Nr.AWV-benNLtS4rYFhd7NWioSt2xc.BjmYjx.sb.AAA.0.0.BjmYrD.AWUgCKCcqWA"
+			"value": "0AncxEbvvkF9li1Nr.AWW1BLRdvF5grZEwzaOgVVWJuoE.BjmYjx.sb.AAA.0.0.Bjqqa9.AWXion-TV3A"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671611876,
+			"expirationDate": 1672733158,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671007053418%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672128355112%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 08:02 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 08:06 Far.D3 - Substituição de Número (Ações manuais)"
 }
