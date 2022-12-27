@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Gisele Castro",
 	"birthdate": "1999 March 14",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671338403.958596,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASRHELkwGayudp8dlT7raCf2HzKDX7yN3yphix8dL0SOj29Hd8yWM3boZm1k3VOUnaQQW75Ine6dysp0KTWi1Z5trzqKzoN2E7nduoCu2etcnOTU5OM-w8STlay0vii9K8xcAEZ1mK8uEa51UISndoBAEg5JMTkkc9QLWmZ-9zwux0dLQn5RiMSYHsCRDbmKnu7xPJewpc_NYYshiK5yHoCKp48S_v41b1mw7Y1AN0AtHyHnGrqcCgrvl3mK2NQF-6CblgB3rG7g672Xj1rlGWpbf1vHpS1a6jxjCNdMMWtG03L9z7g0kymGf-45eHRZv3EOZVTGh5rc-DKOg231"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678769219.525965,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0RIGFTnAf1gBAXiyK.AWXU3wd3Rxzla9drmx6DpNyyRLo.BjmVOS.X2.AAA.0.0.BjmVVE.AWWaigwf7wU"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671598225,
+			"expirationDate": 1672754231,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679925267.813223,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0RIGFTnAf1gBAXiyK.AWUGZxbnvTJQvvK8gDlRoeCHKmc.BjmVOS.X2.AAA.0.0.BjqvkU.AWWse2kDsXU"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670993379528%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672149404715%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 13:54 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 13:57 Far.D3 - Substituição de Número (Ações manuais)"
 }
