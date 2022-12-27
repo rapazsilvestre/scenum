@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Aimée Novaes",
 	"birthdate": "1999 April 10",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671326609.244774,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASRSkoauDnSw_hMcQP6Nos4oxqHthW3OUCVXI80O--NM3UyCEOG6tXTnVOKPGfO8cvW8xUUlDhGtz8UVr8dOFNoNJ5yGTCxjCddXpU7K8ba2KCsJltH07GdB8uEGPaw33TnAbq6cG-K2nVdyY8USAlLwzeEZUmHAa_cba0_sIpDPU_ujcApTHN8G98F_ZgVLClqvsWyH2fOexFueD-HMUX87bLhiqP44OKX_U2qLlRqLiPiYAQ25DfVUdQEvZg44-c4ZWv746ifVxJ854UmfQb5JXPHEaPN8Jb5yBEbPe217q6W5VO12Dmn9jvuiThCBH1vRoIiVuxl2F-eJ8PI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678757444.747679,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0Z42nnlQtjfIFufIP.AWW1Y9n-yMo0aZI7OxS-OCTClq4.BjmSV_.IM.AAA.0.0.BjmSdF.AWWYNigQj2A"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671586354,
+			"expirationDate": 1672712101,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679883121.9884,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0Z42nnlQtjfIFufIP.AWWVafsU96zjy7SvmPwmxWdPX5Q.BjmSV_.IM.AAA.0.0.BjqlRy.AWVZ2OxA80o"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670981565719%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672107275230%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 02:11 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 02:15 Far.D3 - Substituição de Número (Ações manuais)"
 }
