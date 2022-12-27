@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Patrícia Leal",
 	"birthdate": "1995 August 28",
-	"country": "",
+	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671656429.96302,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASQr5DnCboWsy-xDOdQ6ntzPMZId9jpiCETgdJgs9XvInwQ5zYLRlxS4h-KiMv9kBGItmXzx5ClikY2RLKMmHjjMNKRp7jn_mjV0EvtK1b9i6WiJGRgmuFLHJg1PoBUV8DOe74IJE2qcA2Ic0V-4iXtxUNl0qKkR1VHiW2mw5-uOa4VF6Hg5k-UXGm6muO5K9NsC_cDz7BWRb6jsCz_GjTslk5MsG4MUI1zXwBJWizgWmZYdJ8sp6l0IUfJj2iCCnmueaJqZee2mSdB00o8BbC_tBY9IqPLp-MDueGQEVeYHk4UQz-HM3QRDSyq0Yu_ABcJ5"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679087228.954922,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0pvXffSUDxQRoPPk7.AWWpWDnf1elUu-AQlsYKNB2mEcU.Bjni3d.4M.AAA.0.0.Bjni99.AWWsfFtZO60"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671916226,
+			"expirationDate": 1672773057,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -137,7 +111,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x580"
+			"value": "1366x620"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679944028.968218,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0pvXffSUDxQRoPPk7.AWUMiST2j_SI6M2TfYLWnjsZrEw.Bjni3d.4M.AAA.0.0.Bjq0Jd.AWUFyq2McXY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671311383028%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672168226848%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.12.2022 19:06 Far.D3 - Substituição de Número (Ações manuais)"
+	"lastEventDate": "27.12.2022 19:11 Far.D3 - Substituição de Número (Ações manuais)"
 }
