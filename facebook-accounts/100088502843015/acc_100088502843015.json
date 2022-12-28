@@ -51,19 +51,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671667222.670796,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASQdfYqxWOw_V5jk8LCeRYVMTaxQ5Ca5-ocdWmzLFAthslWVk71NHVZTSkoKUE820SB-uUvJpImSkcHtTQSM5M_BFp0ub0UgUZU2PbNqsEAYSyyVYepCgW1uQXBpF1xjESPTxKObT5h-ucdjOLGJZNY7br1pxNGrlTIcxFw4X7aBDQBf-TdWVfLJ11iq71ccqtWuTHvxIKBqQE2B808JMenOk73aUDzkSqSspO8mElMQ4mJBKdbIAOKbf2Vpd95uTcDWDk0JUrj0c7Ogz7fIsiT5dVdA10-M2wirawUZfi11NMyF-dVWCqBt52rfshoyrW05tA"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1702857682.860333,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -115,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672022509,
+			"expirationDate": 1672807424,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679193546.445156,
+			"expirationDate": 1679978388.327613,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ebutaD2CBoq7HDPZ.AWVXo86lqgY70WRI7DutckJaBZU.BjnlgD.AH.AAA.0.0.Bjn87L.AWXzk023s4k"
+			"value": "0ebutaD2CBoq7HDPZ.AWXizA8IYe58qGn-9TD5wxId9qk.BjnlgD.AH.AAA.0.0.Bjq8iV.AWX0gwn7VzE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671417713061%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672202572720%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "28.12.2022 04:39 Far.D9 - Criação e preen. de FanPage (Ações manuais)",
+	"lastEventDate": "28.12.2022 04:43 Far.D9 - Criação e preen. de FanPage (Ações manuais)",
 	"email": "babajideyi3raz07ai@outlook.com",
 	"emailPassword": "0WzT7rWra",
 	"imapHost": "outlook.office365.com",
