@@ -51,19 +51,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671151829.203581,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASSBBt_jbcnn1JlkxO-exb80JK8ayjJ1oOglk_AgbbyeLVWbcbykMZtA_Nny2ij1QHinRuhv1C7qk2v1HqH1D-hHUwGVCo1uWduFoxyyjDwZFRsWMsIv6ug6l23TSoXCl9JetH9if7lYxK_V5vUG7P2uc9cl7Z7ih5ogoUQadq0WkzDuPA74wVTOj7MUFHtGAyTFiXzAHIePHFmTKpfFGAOr4JwWyDNLMF-aiSSZFsj0TXARzVBdey9I5L-8-SsYBYv7eauyMPu6eHT58l5HlQXzjkSvh5QuExBtCQOdM0pOU4tV0Ne6eJaw9k3xVT2wMO5ZqxR90LYWua1evwvS"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1702342297.813836,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -115,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671470960,
+			"expirationDate": 1672806435,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +111,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1034x620"
+			"value": "1034x575"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678641992.336547,
+			"expirationDate": 1679977461.196148,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05jsWv8t2i59aGGsE.AWWNFVeyInjeYKoTj525zpTm7uo.BjlnrB.-T.AAA.0.0.Bjl2RJ.AWWujh1yIXU"
+			"value": "05jsWv8t2i59aGGsE.AWV1mQV1z8eZRmXs7DiuqfvNJbE.BjlnrB.-T.AAA.0.0.Bjq8T2.AWWU-eZxkvo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670866136932%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672201609004%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "28.12.2022 04:24 Far.D5 - Ações Padrões (Ações manuais)",
+	"lastEventDate": "28.12.2022 04:27 Far.D5 - Ações Padrões (Ações manuais)",
 	"email": "carlan9okeacz7e1@outlook.com",
 	"emailPassword": "Co71e7okMC",
 	"imapHost": "outlook.office365.com",
