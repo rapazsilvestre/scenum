@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100088366012889",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "8",
 	"screenname": "Luisa Freitas",
 	"birthdate": "1999 July 18",
 	"country": "Maua",
@@ -114,7 +114,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672700461,
+			"expirationDate": 1672868842,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -127,7 +127,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679871505.665632,
+			"expirationDate": 1680039870.498798,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -136,7 +136,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0gkStFs68mBbwBeip.AWWNHCC2HcU92Bjy9je5h8_nU1E.BjllI6.j6.AAA.0.0.BjqicS.AWUfPE9U_iA"
+			"value": "0gkStFs68mBbwBeip.AWW_YUfsuNVzkjCATI2F6LKwXos.BjllI6.j6.AAA.0.0.BjrLi_.AWVukeoPj0I"
 		},
 		{
 			"domain": ".facebook.com",
@@ -148,10 +148,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672095663940%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.102085785789834%22%7D%5D%2C%22utc3%22%3A1672264031865%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "28.12.2022 21:44 Far.D5 - Ações Padrões (Ações manuais)",
+	"lastEventDate": "28.12.2022 21:47 Far.D5 - Ações Padrões (Ações manuais)",
 	"email": "ileaneweo35ohmpy@outlook.com",
 	"emailPassword": "mNhypyN3U",
 	"imapHost": "outlook.office365.com",
