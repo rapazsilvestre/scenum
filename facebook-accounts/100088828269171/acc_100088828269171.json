@@ -51,19 +51,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671557185.587784,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASRQwAXJiiplaoJ7OpsT3Hxo1zPGBzi1eXOo7rL6ErTvhvetUEYXIauPCelg1t_jfj7b9Y5MXiBvp4OOiMlFrLsGUrmhxiE-Uwl81_np1DlcJIuXj25h8je_IlLnkLDp015cyFkBkeDURFcwW_rJkNM3iCoH-es1ErK-JITqQurSxbA1t321c8KuavvXULZRkbz5MQeoVb1NkLZ0PeNmJtkdMlqjJS9wTTUw5Wi-SnCcgyWsqVYTaCXpRWzzLhZWWHGQ2baX7CoB5dozApVSdV2WJZpLgEHptg-aq9wK6Qs3Wh9ocRX1rzqsOWcRMl6i76c"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1702747648.31682,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678988278.847054,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0Nq94B3mESvoldyha.AWVCHGzDVp5dYwVLKVs0ijc2pAw.BjnKos.P1.AAA.0.0.BjnKz3.AWUaxWNEVmI"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671817339,
+			"expirationDate": 1672812352,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1679983361.155237,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0Nq94B3mESvoldyha.AWXmCX8eUPJwYCKaTdEO1W3uUCk.BjnKos.P1.AAA.0.0.Bjq9wB.AWWO6KruzME"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671212494775%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672207505782%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "28.12.2022 06:02 Far.D5 - Ações Padrões (Ações manuais)"
+	"lastEventDate": "28.12.2022 06:05 Far.D5 - Ações Padrões (Ações manuais)"
 }
