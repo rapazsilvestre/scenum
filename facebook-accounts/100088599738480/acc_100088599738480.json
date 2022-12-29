@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672713976,
+			"expirationDate": 1672921626,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679884976.493846,
+			"expirationDate": 1680092592.676635,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0UKN3jeSEDpSOtHZ1.AWVa8x_kqzkl_R1j5GWsbjncIpY.Bjnk9s.OW.AAA.0.0.Bjqlux.AWUxWleWN0I"
+			"value": "0UKN3jeSEDpSOtHZ1.AWXaY7x1m-D-o3QSP-USJ_YfvPU.Bjnk9s.OW.AAA.0.0.BjrYax.AWVmcvTNd5s"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672109149115%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672316794729%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "29.12.2022 12:22 Far.D9 - Criação e preen. de FanPage (Ações manuais)",
+	"lastEventDate": "29.12.2022 12:27 Far.D9 - Criação e preen. de FanPage (Ações manuais)",
 	"email": "vzackariahvo67u6e54eus@outlook.com",
 	"emailPassword": "54oYov5E4",
 	"imapHost": "outlook.office365.com",
