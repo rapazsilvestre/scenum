@@ -143,5 +143,8 @@
 	"email": "olinzi0oy5u8aiva8@outlook.com",
 	"emailPassword": "v0U8v0oE8",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"funPages": [
+		"https://web.facebook.com/profile.php?id=100089271602174"
+	]
 }
