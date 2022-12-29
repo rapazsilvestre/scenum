@@ -143,5 +143,6 @@
 	"email": "xbishopf1x8uo0fi@outlook.com",
 	"emailPassword": "xf8fXDuXD",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "LCHHNOANSCKPV3W4EFEXHTG4EJQTVKD4"
 }
