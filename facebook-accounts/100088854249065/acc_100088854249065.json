@@ -143,5 +143,8 @@
 	"email": "ramellyawo9r2@outlook.com",
 	"emailPassword": "r9rX2wG92G",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"funPages": [
+		"https://web.facebook.com/profile.php?id=100089101359829"
+	]
 }
