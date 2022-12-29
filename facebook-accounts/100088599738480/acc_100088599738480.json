@@ -143,5 +143,8 @@
 	"email": "vzackariahvo67u6e54eus@outlook.com",
 	"emailPassword": "54oYov5E4",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"funPages": [
+		"https://web.facebook.com/Jose-Manoel-Garcia-109869341985987"
+	]
 }
