@@ -143,5 +143,6 @@
 	"email": "dritchieo0ayjey2dr4@outlook.com",
 	"emailPassword": "2CrDC4C2y",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "Y67HEHGGWRKRB6LSOCQI6W3OEGCUTZ6D"
 }
