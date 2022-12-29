@@ -143,5 +143,6 @@
 	"email": "ljhonnyy3koal74hi@outlook.com",
 	"emailPassword": "ika3VOh34a",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "7L3NBAWMJ7IQSGQ4MD7IKEIM24SDQPWW"
 }
