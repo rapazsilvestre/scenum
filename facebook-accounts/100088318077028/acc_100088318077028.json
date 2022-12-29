@@ -134,7 +134,7 @@
 			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672351761910%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "29.12.2022 22:13 Far.D7 - Ações Padrões",
+	"lastEventDate": "29.12.2022 22:15 Far.D7 - Ações Padrões",
 	"amountFriends": "",
 	"screenname": "Astrid Moreira",
 	"birthdate": "1995 August 23",
@@ -144,5 +144,17 @@
 	"emailPassword": "1o6K91oJXv",
 	"imapHost": "outlook.office365.com",
 	"imapPort": "993",
-	"code2fa": "ACG5APSNBVCELGPZL7ZESPU2KSBWXJLD"
+	"code2fa": "ACG5APSNBVCELGPZL7ZESPU2KSBWXJLD",
+	"recoveryCodes": [
+		"00018406",
+		"00815599",
+		"11603438",
+		"13505608",
+		"21505221",
+		"30589620",
+		"49310729",
+		"80020927",
+		"89425713",
+		"94283433"
+	]
 }
