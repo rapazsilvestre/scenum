@@ -1,5 +1,116 @@
 {
 	"sn": "facebook",
 	"id": "100088929165509",
-	"name": ""
+	"name": "",
+	"amountFriends": "",
+	"screenname": "Edmilson Dias",
+	"birthdate": "",
+	"country": "",
+	"isAvatarExists": false,
+	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705878589.009766,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "sb",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "fAueY-NfinDfF99W2SIRV1yd"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1705862019.631287,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "fAueY2A_4M19GPgkzpZLFEba"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1703747918.785496,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100087977441751"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672895344,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1366x620"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1703747918.785554,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "28%3ATL6EoEERwH9uOg%3A2%3A1671318588%3A-1%3A5705%3A%3AAcUAwveStsOoRpjTaucvJTLBeZo-1rLKNxQZLIqEmA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1703749319.044355,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "i_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100088929165509"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJubGMyaDFqcTJtNnciLCJ0aW1lIjoxNjcyMjEzNjc0fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1680066292.496399,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "05XQTcIIzmaLfZQj2.AWW-KEZ9LItxspyAxmytas0TXFc.Bjq-3N.6X.AAA.0.0.BjrR_1.AWWNWATSSfI"
+		}
+	],
+	"lastEventDate": "29.12.2022 05:09 Far.D10 - Program de Posts Fanpage (Ações manuais)"
 }
