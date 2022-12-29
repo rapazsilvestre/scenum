@@ -143,5 +143,6 @@
 	"email": "rc1uo19uva16o@outlook.com",
 	"emailPassword": "1o6K91oJXv",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "ACG5APSNBVCELGPZL7ZESPU2KSBWXJLD"
 }
