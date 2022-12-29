@@ -143,5 +143,6 @@
 	"email": "severo436faoafwo7gf@outlook.com",
 	"emailPassword": "3fgw6f4gV7",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "RCAOLQDTWQMBP2WTWWPCYJ7CNOLQ5VL3"
 }
