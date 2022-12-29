@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672812352,
+			"expirationDate": 1672931172,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679983361.155237,
+			"expirationDate": 1680102230.008176,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Nq94B3mESvoldyha.AWXmCX8eUPJwYCKaTdEO1W3uUCk.BjnKos.P1.AAA.0.0.Bjq9wB.AWWO6KruzME"
+			"value": "0Nq94B3mESvoldyha.AWU9jwxij9VvEz-yUu-mhlrezP4.BjnKos.P1.AAA.0.0.BjraxW.AWUGyJToCns"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672207505782%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672326348004%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "29.12.2022 15:03 Far.D6 - Ações Padrões"
+	"lastEventDate": "29.12.2022 15:06 Far.D6 - Ações Padrões"
 }
