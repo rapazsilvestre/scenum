@@ -143,5 +143,6 @@
 	"email": "sspencer6y984yseobiv@outlook.com",
 	"emailPassword": "8G9iPs468",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "V6SO27NQHXZ5O3534TJ3BCFAVXZHY3TW"
 }
