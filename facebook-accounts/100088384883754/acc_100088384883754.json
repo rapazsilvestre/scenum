@@ -143,5 +143,6 @@
 	"email": "wmaigenn85e7uhwyo@outlook.com",
 	"emailPassword": "hwD7nFDhw",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "X5MTOL36IZ6DPVTDR2URHTEDRB4HZ4AG"
 }
