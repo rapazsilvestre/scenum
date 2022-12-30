@@ -143,5 +143,6 @@
 	"email": "micheas7u84a9a@outlook.com",
 	"emailPassword": "As4EEN8a9",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "MT33KCEWV7GIUYLY4ALVQ4BXC3IP3HMN"
 }
