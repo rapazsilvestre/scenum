@@ -5,7 +5,7 @@
 	"status": 2,
 	"id": "100088590858679",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "3",
 	"screenname": "Aída Dourado",
 	"birthdate": "1989 February 24",
 	"country": "Brazil",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672872000,
+			"expirationDate": 1673031051,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680043025.726409,
+			"expirationDate": 1680202088.281573,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0NZdHLjlztALYHO0I.AWVfeqa9v68aKelD41RNUzNHXpQ.Bjnc4D.-b.AAA.0.0.BjrMUS.AWUBA45-ui8"
+			"value": "0NZdHLjlztALYHO0I.AWVyNYWFYPwZ771o7uArsykSbM8.Bjnc4D.-b.AAA.0.0.BjrzJp.AWWzb1u0gzM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672267175259%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672426226469%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "30.12.2022 18:47 Far.D6 - Ações Padrões",
+	"lastEventDate": "30.12.2022 18:50 Far.D6 - Ações Padrões",
 	"email": "sanjivj8oeg9123ye@outlook.com",
 	"emailPassword": "SMe9UM981",
 	"imapHost": "outlook.office365.com",
