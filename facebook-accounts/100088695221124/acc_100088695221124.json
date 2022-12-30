@@ -143,5 +143,6 @@
 	"email": "alvinoieovoe38t2yg@outlook.com",
 	"emailPassword": "Koto32ge3",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "LPEUTNZJQYYCOFHW7VGFD3LD55LV3XVE"
 }
