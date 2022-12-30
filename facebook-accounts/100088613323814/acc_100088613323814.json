@@ -143,5 +143,6 @@
 	"email": "aamritaaeab4o1yeb@outlook.com",
 	"emailPassword": "b4bKQeabFC",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "TVXHCP7W4WW6AJPK2C7ZNYAGADBM3XZV"
 }
