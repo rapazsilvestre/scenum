@@ -143,5 +143,6 @@
 	"email": "ulakeyai9uoili8o@outlook.com",
 	"emailPassword": "iHo9u8oOO",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "J3TBMC4DND527NNYRBWP2S2JSKBNYDOH"
 }
