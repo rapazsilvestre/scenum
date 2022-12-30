@@ -143,5 +143,6 @@
 	"email": "clorinda32zauy6oi@outlook.com",
 	"emailPassword": "EP3Ey6z63z",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "ELGZDZEQZG24YUJWUMCV64ULEP6XJRNW"
 }
