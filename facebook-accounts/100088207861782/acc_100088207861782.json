@@ -3,7 +3,7 @@
 	"id": "100088207861782",
 	"login": "satusmediamkt@gmail.com",
 	"password": "4Xvu7iLupl",
-	"lastEventDate": "29.12.2022 05:27 Far.D10 - Program de Posts Fanpage (Ações manuais)",
+	"lastEventDate": "30.12.2022 12:35 Far.D11 - BM Shield: D1 (Ações manuais)",
 	"status": 2,
 	"name": "",
 	"amountFriends": "",
@@ -53,7 +53,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702854392.498843,
+			"expirationDate": 1703939490.786062,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -66,20 +66,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702854392.498864,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "15%3AJrcXH1GD5W_SNg%3A2%3A1671318392%3A-1%3A-1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1672813567,
+			"expirationDate": 1673008512,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -88,11 +75,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x620"
+			"value": "1366x580"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679984501.980931,
+			"expirationDate": 1703939490.786118,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "15%3AJrcXH1GD5W_SNg%3A2%3A1671318392%3A-1%3A-1%3A%3AAcUY8pwnE_k0VMIw5IffZ4Q_JbhPFRpBwW6BPrdr2Q"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1680179489.786148,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -101,7 +101,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0DDnwYe4QU3rxDjQT.AWXgjMQ3qFPQQUUMeKF-RoWbb7s.BjnklY.NR.AAA.0.0.Bjq-B2.AWUf9zyjgd8"
+			"value": "0WawITmuXiUilxyxg.AWX61mwHPhg0tUEfM72PfqMR4Kk.Bjrtoj.NR.AAA.0.0.Bjrtoj.AWUnJ4gvdf4"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJucGV0Z2hyN2F4byIsInRpbWUiOjE2NzI0MDM1NzF9"
 		},
 		{
 			"domain": ".facebook.com",
@@ -113,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672208771005%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672403667670%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
