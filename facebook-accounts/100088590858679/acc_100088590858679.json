@@ -143,5 +143,6 @@
 	"email": "sanjivj8oeg9123ye@outlook.com",
 	"emailPassword": "SMe9UM981",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "EN7XXTWXEOXPOSYQRE36MA3W5NCBDNTP"
 }
