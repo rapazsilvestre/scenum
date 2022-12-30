@@ -143,5 +143,6 @@
 	"email": "famberlieeg5fe45a@outlook.com",
 	"emailPassword": "gfSV5Tf5VT",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "A7PBKBBMYRHGTZ35XRVIALI74VZFHI63"
 }
