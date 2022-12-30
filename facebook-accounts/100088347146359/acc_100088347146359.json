@@ -143,5 +143,6 @@
 	"email": "mjeanettayt715qoyx8em@outlook.com",
 	"emailPassword": "7TR1Sxm8G",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "UYLZ33OODRZ7QRCQNRCUGPTDGVS2EC6B"
 }
