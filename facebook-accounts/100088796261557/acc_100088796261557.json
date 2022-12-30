@@ -143,5 +143,6 @@
 	"email": "creidto2c96ya4vy@outlook.com",
 	"emailPassword": "vyaHQ64Q2c",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "VVI5FKOZHOAUGKTXPI3OGGANWFCZMBBV"
 }
