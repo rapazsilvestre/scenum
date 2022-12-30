@@ -155,5 +155,6 @@
 	"email": "ileaneweo35ohmpy@outlook.com",
 	"emailPassword": "mNhypyN3U",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "SHP3NKG3MW7IJJME3FK3EVLCKYWHGSPJ"
 }
