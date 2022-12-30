@@ -143,5 +143,6 @@
 	"email": "aagnespyoau48yil3i@outlook.com",
 	"emailPassword": "3lP4ipKP3E",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "SZ6O6JSRK74P4HK2RYIZ5JAP2CRRHQE7"
 }
