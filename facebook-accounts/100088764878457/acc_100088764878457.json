@@ -143,5 +143,6 @@
 	"email": "muricefi7li7e6@outlook.com",
 	"emailPassword": "HfH6lP7lP",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "7OFSKZKKNSUCXRUNCBHRR4QSFJKLLJLA"
 }
