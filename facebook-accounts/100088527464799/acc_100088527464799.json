@@ -143,5 +143,6 @@
 	"email": "valine8v93eaw4h6i@outlook.com",
 	"emailPassword": "48GSMM9v3",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "5DCRMSOPNHTSU5Q6VRKRWNJSHADM5RAY"
 }
