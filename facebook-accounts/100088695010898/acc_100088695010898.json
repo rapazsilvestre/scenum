@@ -143,5 +143,6 @@
 	"email": "mattheriqf7ef9eo7@outlook.com",
 	"emailPassword": "qFfNq7feN7",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "PLOSQMSLLMLPRI367QB5DPOLFKPD6OWE"
 }
