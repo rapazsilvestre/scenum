@@ -143,5 +143,6 @@
 	"email": "mathanoavd5xzeu3@outlook.com",
 	"emailPassword": "PeP5NB5ex",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "UFO2VWLA3MVNSFEXAUAMNYFJNUHMNYE5"
 }
