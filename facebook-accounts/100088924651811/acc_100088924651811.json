@@ -143,5 +143,6 @@
 	"email": "tremel1x5eay@outlook.com",
 	"emailPassword": "YTYUYU5xe",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "JO7S42NKIYQKR2DJOJLTMDARUZA6SFB5"
 }
