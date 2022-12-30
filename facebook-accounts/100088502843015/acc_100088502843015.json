@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672807424,
+			"expirationDate": 1673014590,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +111,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x620"
+			"value": "1366x580"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679978388.327613,
+			"expirationDate": 1680185572.296507,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ebutaD2CBoq7HDPZ.AWXizA8IYe58qGn-9TD5wxId9qk.BjnlgD.AH.AAA.0.0.Bjq8iV.AWX0gwn7VzE"
+			"value": "0ebutaD2CBoq7HDPZ.AWX6DB9UDuyaoCanqcc3AtFh4sI.BjnlgD.AH.AAA.0.0.BjrvHl.AWXZcIUaLYg"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJucGppajFhYzZxcXkiLCJ0aW1lIjoxNjcyNDA5NjExfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +148,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672202572720%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672409765028%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "29.12.2022 11:39 Far.D10 - Program de Posts Fanpage (Ações manuais)",
+	"lastEventDate": "30.12.2022 14:16 Far.D11 - BM Shield: D1 (Ações manuais)",
 	"email": "babajideyi3raz07ai@outlook.com",
 	"emailPassword": "0WzT7rWra",
 	"imapHost": "outlook.office365.com",
