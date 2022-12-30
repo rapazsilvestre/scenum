@@ -143,5 +143,6 @@
 	"email": "alfredrick5o1oyo6i3ly@outlook.com",
 	"emailPassword": "56C651JlJ",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "KZ47VDPUPMUQAGLZSWJKYI56JRBI3MYB"
 }
