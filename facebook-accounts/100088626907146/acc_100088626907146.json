@@ -143,5 +143,6 @@
 	"email": "ramerodau6uomi14@outlook.com",
 	"emailPassword": "146m4mdBd",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "2A6FBEWXCHR3GXHILWL7GEFAG52DIUHS"
 }
