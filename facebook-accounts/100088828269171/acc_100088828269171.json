@@ -139,6 +139,18 @@
 			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672375608397%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "30.12.2022 04:49 Far.D7 - Ações Padrões",
-	"code2fa": "HLWJIIPZPKUGCCVV3X25CDV732SQLYZY"
+	"lastEventDate": "30.12.2022 04:51 Far.D7 - Ações Padrões",
+	"code2fa": "HLWJIIPZPKUGCCVV3X25CDV732SQLYZY",
+	"recoveryCodes": [
+		"08147450",
+		"10008038",
+		"22824249",
+		"38722456",
+		"49783168",
+		"63420170",
+		"85955199",
+		"86068557",
+		"86876915",
+		"98655844"
+	]
 }
