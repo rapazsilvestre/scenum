@@ -143,5 +143,6 @@
 	"email": "amisteed0uby235aoa@outlook.com",
 	"emailPassword": "2323HJ0a5",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "IWMMY642UMSVRM2CUS67RER2IY67ILLG"
 }
