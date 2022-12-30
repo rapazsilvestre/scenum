@@ -139,10 +139,22 @@
 			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672379518947%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "30.12.2022 06:02 Far.D6 - Ações Padrões",
+	"lastEventDate": "30.12.2022 06:04 Far.D6 - Ações Padrões",
 	"email": "creidto2c96ya4vy@outlook.com",
 	"emailPassword": "vyaHQ64Q2c",
 	"imapHost": "outlook.office365.com",
 	"imapPort": "993",
-	"code2fa": "VVI5FKOZHOAUGKTXPI3OGGANWFCZMBBV"
+	"code2fa": "VVI5FKOZHOAUGKTXPI3OGGANWFCZMBBV",
+	"recoveryCodes": [
+		"24733378",
+		"24888622",
+		"30564870",
+		"41668156",
+		"47964174",
+		"62271021",
+		"66246405",
+		"81100626",
+		"96147476",
+		"99574814"
+	]
 }
