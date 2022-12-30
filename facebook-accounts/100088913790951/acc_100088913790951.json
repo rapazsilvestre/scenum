@@ -143,5 +143,6 @@
 	"email": "ieliahi10lciy@outlook.com",
 	"emailPassword": "AHA0iXYXAl",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "3JSPSQQGLHLW6KWBUJY3W2B3BLQOK7KH"
 }
