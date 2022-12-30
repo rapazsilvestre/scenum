@@ -143,5 +143,6 @@
 	"email": "sila25i3jok85@outlook.com",
 	"emailPassword": "Cj5285C3N",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "HVK6QMLNICIRDYCQDKB67TIO5MD5VYY5"
 }
