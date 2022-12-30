@@ -151,7 +151,7 @@
 			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672404918379%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "30.12.2022 12:55 Far.D10 - Program de Posts Fanpage (Ações manuais)",
+	"lastEventDate": "30.12.2022 12:56 Far.D10 - Program de Posts Fanpage (Ações manuais)",
 	"email": "tisaurot69jeiu12@outlook.com",
 	"emailPassword": "te12CVjtG2",
 	"imapHost": "outlook.office365.com",
@@ -159,5 +159,17 @@
 	"funPages": [
 		"https://web.facebook.com/profile.php?id=100088956825974"
 	],
-	"code2fa": "ZNMVFNW6NUSAWMEA5DRFFIKVRLQORDZX"
+	"code2fa": "ZNMVFNW6NUSAWMEA5DRFFIKVRLQORDZX",
+	"recoveryCodes": [
+		"18111564",
+		"36450698",
+		"43230347",
+		"46711220",
+		"47600904",
+		"48488011",
+		"58091912",
+		"74038570",
+		"81309496",
+		"96849889"
+	]
 }
