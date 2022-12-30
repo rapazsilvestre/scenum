@@ -143,5 +143,6 @@
 	"email": "reshardut5o9oeile@outlook.com",
 	"emailPassword": "teZAte9TAB",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "X6RGTBKPX6O7JS3QZHKYS7V7WFK454VL"
 }
