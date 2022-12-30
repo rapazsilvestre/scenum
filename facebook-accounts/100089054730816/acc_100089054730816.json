@@ -143,5 +143,6 @@
 	"email": "dkalynn3yioaidu20@outlook.com",
 	"emailPassword": "2y2yB0JdJB",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "254JLIRK3MDQANLWSIIURWY7MUUQB2ZD"
 }
