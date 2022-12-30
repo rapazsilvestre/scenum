@@ -143,5 +143,6 @@
 	"email": "naamana9aejh9an@outlook.com",
 	"emailPassword": "nja9PhIaRj",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "FLLHZP3IYZABJAVVV7J6W7JOY7BRVZSD"
 }
