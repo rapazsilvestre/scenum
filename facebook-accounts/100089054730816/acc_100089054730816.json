@@ -139,10 +139,22 @@
 			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672408625437%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "30.12.2022 13:57 Far.D10 - Program de Posts Fanpage (Ações manuais)",
+	"lastEventDate": "30.12.2022 13:59 Far.D10 - Program de Posts Fanpage (Ações manuais)",
 	"email": "dkalynn3yioaidu20@outlook.com",
 	"emailPassword": "2y2yB0JdJB",
 	"imapHost": "outlook.office365.com",
 	"imapPort": "993",
-	"code2fa": "254JLIRK3MDQANLWSIIURWY7MUUQB2ZD"
+	"code2fa": "254JLIRK3MDQANLWSIIURWY7MUUQB2ZD",
+	"recoveryCodes": [
+		"22099247",
+		"24485493",
+		"26738921",
+		"41843085",
+		"44847490",
+		"52931223",
+		"58317744",
+		"67418081",
+		"77229657",
+		"92709810"
+	]
 }
