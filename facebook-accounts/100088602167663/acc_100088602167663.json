@@ -143,5 +143,6 @@
 	"email": "imarquisa92ehaioyua1@outlook.com",
 	"emailPassword": "LFR9LFoR2u",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "FXHSN3MAW7YSI3GAWAQIJWES23TGY2HK"
 }
