@@ -158,5 +158,6 @@
 	"imapPort": "993",
 	"funPages": [
 		"https://web.facebook.com/profile.php?id=100088956825974"
-	]
+	],
+	"code2fa": "ZNMVFNW6NUSAWMEA5DRFFIKVRLQORDZX"
 }
