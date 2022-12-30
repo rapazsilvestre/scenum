@@ -145,5 +145,6 @@
 	"email": "wcarmenweoj89oy@outlook.com",
 	"emailPassword": "FTYY89oFo",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "C5FVKQQR5543BUJ6RLPWYSKQKS5ZY4IO"
 }
