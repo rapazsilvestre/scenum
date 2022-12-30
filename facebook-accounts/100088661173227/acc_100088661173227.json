@@ -143,5 +143,6 @@
 	"email": "ifranciscazsoeo90i@outlook.com",
 	"emailPassword": "Ce9Me0LM0J",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "FRHQ4OGZFGPQKTSQFNDDKUXGSOPAKISO"
 }
