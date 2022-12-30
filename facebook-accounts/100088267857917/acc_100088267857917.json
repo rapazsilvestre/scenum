@@ -143,5 +143,6 @@
 	"email": "lbrandenjl1ie1a@outlook.com",
 	"emailPassword": "j1WelJJ1W",
 	"imapHost": "outlook.office365.com",
-	"imapPort": "993"
+	"imapPort": "993",
+	"code2fa": "Y6YSG6BLAAW4QYP5YHRIOLQLJZDERY27"
 }
