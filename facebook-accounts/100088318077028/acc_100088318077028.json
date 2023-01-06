@@ -97,7 +97,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672956605,
+			"expirationDate": 1673638808,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -110,7 +110,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680127626.467885,
+			"expirationDate": 1680809819.919595,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -119,7 +119,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0OELXIJLkc4ppwWPA.AWWxm4DqLT5z2rLWll-lT6zsn3I.BjmDxZ.6L.AAA.0.0.Bjrg-L.AWXPWTgdl9E"
+			"value": "0OELXIJLkc4ppwWPA.AWVWYbKSKR-7R3j_F4aFA1EGOa4.BjmDxZ.6L.AAA.0.0.BjuHhc.AWVBpdEkFv0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -131,10 +131,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672351761910%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673033963359%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "06.01.2023 19:36 Far.D8 - Ações Padrões",
+	"lastEventDate": "06.01.2023 19:40 Far.D8 - Ações Padrões",
 	"amountFriends": "",
 	"screenname": "Astrid Moreira",
 	"birthdate": "1995 August 23",
