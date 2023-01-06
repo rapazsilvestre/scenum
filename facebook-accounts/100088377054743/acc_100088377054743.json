@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672968812,
+			"expirationDate": 1673652310,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680139841.918924,
+			"expirationDate": 1680823345.713764,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0xQp9wKCsVd8EM8lV.AWWboDhrR3Cxp00dfiPwDoo7AJo.Bjmagi.W_.AAA.0.0.Bjrj9C.AWW5GNG13KE"
+			"value": "0xQp9wKCsVd8EM8lV.AWWBZ0Tlobf6yuVmlEbm76pXAxE.Bjmagi.W_.AAA.0.0.BjuK0y.AWWkqEEMrM4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +136,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672363988691%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673047507106%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "06.01.2023 23:22 Far.D8 - Ações Padrões",
+	"lastEventDate": "06.01.2023 23:25 Far.D8 - Ações Padrões",
 	"email": "reshardut5o9oeile@outlook.com",
 	"emailPassword": "teZAte9TAB",
 	"imapHost": "outlook.office365.com",
