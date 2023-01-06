@@ -6,10 +6,6 @@
 	"id": "100088338416636",
 	"name": "",
 	"amountFriends": "",
-	"screenname": "Marcela Godoy",
-	"birthdate": "2001 March 9",
-	"country": "Cajamarca",
-	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -102,7 +98,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672961148,
+			"expirationDate": 1673641892,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +111,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680132173.56413,
+			"expirationDate": 1680813000.240074,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +120,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0FXpwi0XQgp8tqCHD.AWUgh3umbZ_YxmuplowtigU3WqE.BjmYEa.jJ.AAA.0.0.BjriFO.AWXARQ_XldE"
+			"value": "0FXpwi0XQgp8tqCHD.AWXx8bmkkSc08GnxrHONjzBKkjg.BjmYEa.jJ.AAA.0.0.BjuITJ.AWU9L3GWXHk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +132,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672356321273%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673037097466%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "06.01.2023 20:29 Far.D8 - Ações Padrões",
+	"lastEventDate": "06.01.2023 20:34 Far.D8 - Ações Padrões",
 	"email": "dritchieo0ayjey2dr4@outlook.com",
 	"emailPassword": "2CrDC4C2y",
 	"imapHost": "outlook.office365.com",
