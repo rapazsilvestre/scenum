@@ -3,7 +3,7 @@
 	"id": "100087977441751",
 	"login": "satusmediamkt@gmail.com",
 	"password": "4Xvu7iLupl",
-	"lastEventDate": "29.12.2022 05:04 Far.D10 - Program de Posts Fanpage (Ações manuais)",
+	"lastEventDate": "07.01.2023 13:13 Far.D11 - BM Shield: D1 (Ações manuais)",
 	"status": 2,
 	"name": "",
 	"amountFriends": "",
@@ -40,7 +40,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703747918.785496,
+			"expirationDate": 1704632999.407579,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -53,7 +53,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672816965,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJueXgwMTFzaG5rOHgiLCJ0aW1lIjoxNjcyODQ5OTEyfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1673702008,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -66,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703747918.785554,
+			"expirationDate": 1704632999.407646,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -75,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "28%3ATL6EoEERwH9uOg%3A2%3A1671318588%3A-1%3A5705%3A%3AAcUAwveStsOoRpjTaucvJTLBeZo-1rLKNxQZLIqEmA"
+			"value": "28%3ATL6EoEERwH9uOg%3A2%3A1671318588%3A-1%3A5705%3A%3AAcW2oi-GUmTLUBjjHRhrX_kOA2v-n-hlhziX7kdtrg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679987931.916041,
+			"expirationDate": 1680872998.407678,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -88,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05XQTcIIzmaLfZQj2.AWUV7cjAAgQsUn1BgRzvonEjxWo.Bjq-3N.6X.AAA.0.0.Bjq-3c.AWVDGdjNXAs"
+			"value": "0YH5k6daz07fnx3va.AWVgj2YiYM5bAg97ywbQCRxlh4w.BjuW8o.6X.AAA.0.0.BjuW8o.AWU6srKw4xI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -100,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672212138809%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673097178615%2C%22v%22%3A1%7D"
 		}
 	],
 	"funPages": [
