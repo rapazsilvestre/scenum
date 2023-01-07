@@ -102,32 +102,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673014590,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1366x580"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1680185572.296507,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0ebutaD2CBoq7HDPZ.AWX6DB9UDuyaoCanqcc3AtFh4sI.BjnlgD.AH.AAA.0.0.BjrvHl.AWXZcIUaLYg"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -136,7 +110,33 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJucGppajFhYzZxcXkiLCJ0aW1lIjoxNjcyNDA5NjExfQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJvMmxlcGt6czZ4ZiIsInRpbWUiOjE2NzMwMTg3NDR9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1673658114,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1366x620"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1680829090.041978,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0ebutaD2CBoq7HDPZ.AWWxv4iUuJQ2211wWJjzIuL70qo.BjnlgD.AH.AAA.0.0.BjuMOi.AWV7X0Gu8AA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -148,10 +148,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672409765028%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673053318421%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "07.01.2023 00:57 Far.D8 - Ações Padrões",
+	"lastEventDate": "07.01.2023 01:01 Far.D8 - Ações Padrões",
 	"email": "babajideyi3raz07ai@outlook.com",
 	"emailPassword": "0WzT7rWra",
 	"imapHost": "outlook.office365.com",
