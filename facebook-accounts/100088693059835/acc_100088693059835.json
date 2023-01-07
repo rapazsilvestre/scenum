@@ -8,7 +8,7 @@
 	"amountFriends": "",
 	"screenname": "Caroline Rodrigues",
 	"birthdate": "1992 October 29",
-	"country": "",
+	"country": "Sul",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -48,19 +48,6 @@
 			"session": true,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671229716.96475,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "zsh",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "ASR0XfbRlTcNhgPro-V0qoNtmr3poiPcfyIqC2zrhxSICZTpFaJmlPSxdvSaAquMt5Mk7wjqE_6jExbmk_IqJuy36Yy-YtHhNQDrmf7QPhtvXBbeLuyVHXYBCfvXEQJDCBLDhR6gh5HmvJxtaQ0tYcsP3m3nz-d2BV9q1WXdqwnWvJGwqQ8QZlEUuXwjT1s_cKY-3JV4819l1GE46jK634QMohNzJ6LueDhL3eRJCYXXTvGdrgxViLuc3VeY-6SKPzXpGWOyNzLLrP5KLHPAm2g6dKv5PRXFd3Wb2oLMXHKokl-pKl5TXMzFPQmBOxR3AfGHc01XEiuBCT5Ibbw9"
 		},
 		{
 			"domain": ".facebook.com",
@@ -115,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678660548.098186,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "031JghNd5ZQbTCPRo.AWXqMZ4kKtDxpsyvus0FHsnmGp4.Bjl6sE.Tq.AAA.0.0.Bjl6zE.AWVgtEThbcI"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671489547,
+			"expirationDate": 1673677207,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -141,6 +115,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1680848241.332016,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "031JghNd5ZQbTCPRo.AWUzlMgq83Dp0epv22JGfQzi4l4.Bjl6sE.Tq.AAA.0.0.BjuQ5x.AWViHVi-boY"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -149,8 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670884703281%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673072382101%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "07.01.2023 06:17 Far.D8 - Ações Padrões"
+	"lastEventDate": "07.01.2023 06:20 Far.D8 - Ações Padrões"
 }
