@@ -102,7 +102,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672932986,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJuemZuc3ZlZmg4NiIsInRpbWUiOjE2NzI4NzExNzZ9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1674491231,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +127,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680103978.260731,
+			"expirationDate": 1681662220.791889,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +136,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0QPhAjiV66pmQRHEe.AWW0RGtReFhoCJwFBJiIoC8B2sE.BjniZ0.21.AAA.0.0.BjrbMr.AWWokFLidoI"
+			"value": "0QPhAjiV66pmQRHEe.AWWxaYddN5hCs6PdFkTuKjDy6XY.BjniZ0.21.AAA.0.0.BjxXoN.AWU7ELnuqjY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,10 +148,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672328154550%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673886405689%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "30.12.2022 07:44 Far.D10 - Program de Posts Fanpage (Ações manuais)",
+	"lastEventDate": "16.01.2023 16:27 Far.D10 - Program de Posts Fanpage (Ações manuais)",
 	"email": "ramellyawo9r2@outlook.com",
 	"emailPassword": "r9rX2wG92G",
 	"imapHost": "outlook.office365.com",
