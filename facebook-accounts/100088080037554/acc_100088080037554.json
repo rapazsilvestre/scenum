@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "16.01.2023 17:48 Far.D10 - Program de Posts Fanpage (Ações manuais)",
+	"lastEventDate": "16.01.2023 17:53 Far.D10 - Program de Posts Fanpage (Ações manuais)",
 	"status": 2,
 	"id": "100088080037554",
 	"name": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703970285.733681,
+			"expirationDate": 1704563794.741937,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703970285.733738,
+			"expirationDate": 1704563794.741988,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "50%3AtfCzjZY8QfHy6g%3A2%3A1671301063%3A-1%3A16125%3A%3AAcXY6dWwwdQW9eQyL7DWacMFzvAUfG-JCjk_qJE5Ahg"
+			"value": "50%3AtfCzjZY8QfHy6g%3A2%3A1671301063%3A-1%3A16125%3A%3AAcW-LfA8ouf1UFRFJAcVRiFeMcarpiu3htUX5l14v70"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673632574,
+			"expirationDate": 1674496385,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x625"
+			"value": "1366x620"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680803536.754276,
+			"expirationDate": 1681667373.444446,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0U5rdBAKl5BclVsrW.AWWqA4llQAPNWTjKsLNxrNsmPbs.Bjr1Ju.X0.AAA.0.0.BjuF_R.AWUgrhQidp0"
+			"value": "0V6rbo0f6LCKwUX97.AWWsRUK2awoompyjB6c193RdFsA.BjuGDT.X0.AAA.0.0.BjxY4u.AWU--GhfClM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673027779799%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673891536128%2C%22v%22%3A1%7D"
 		}
 	]
 }
