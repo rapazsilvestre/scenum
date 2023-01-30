@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "30.01.2023 00:59 Far.D11 - BM Shield: D1 (Ações manuais)",
+	"lastEventDate": "30.01.2023 01:03 Far.D11 - BM Shield: D1 (Ações manuais)",
 	"status": 2,
 	"id": "100088854249065",
 	"name": "",
@@ -13,10 +13,10 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679085055.466,
+			"expirationDate": 1702845042.874,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "m_page_voice",
+			"name": "c_user",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
@@ -39,10 +39,10 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702845042.874,
+			"expirationDate": 1679085055.466,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "c_user",
+			"name": "m_page_voice",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
@@ -112,11 +112,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwM3A2cG0yejRhYyIsInRpbWUiOjE2NzQ3NDk5ODB9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwN3ltdDE0eHR1OTMiLCJ0aW1lIjoxNjc0OTQ5NDU5fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675463059,
+			"expirationDate": 1675645408,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -129,7 +129,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682634047.276037,
+			"expirationDate": 1682816403.542698,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0QPhAjiV66pmQRHEe.AWWZurKAGta6dLvAfLKvINvKOaM.BjniZ0.21.AAA.0.0.Bj1E5A.AWUbhFi7RRo"
+			"value": "0QPhAjiV66pmQRHEe.AWUn6__Z0KMkk29ECHNvB98aSro.BjniZ0.21.AAA.0.0.Bj1xaU.AWXxB9JMnII"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100024033441309%22%7D%5D%2C%22utc3%22%3A1674858264658%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675040613788%2C%22v%22%3A1%7D"
 		}
 	]
 }
