@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "31.01.2023 21:11 Aquecimento.Nº1",
+	"lastEventDate": "31.01.2023 21:14 Aquecimento.Nº1",
 	"status": 2,
 	"id": "100088506858128",
 	"name": "",
@@ -11,6 +11,19 @@
 	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678741941.173,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "m_page_voice",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100088506858128"
+		},
 		{
 			"domain": ".facebook.com",
 			"expirationDate": 1702501925.956,
@@ -36,19 +49,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "VuqYYy81Sl2peWtwT0gv9l4y"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678741941.173,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "m_page_voice",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100088506858128"
 		},
 		{
 			"domain": ".facebook.com",
@@ -104,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675457554,
+			"expirationDate": 1675804475,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682628583.870198,
+			"expirationDate": 1682975510.151774,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "065rXR1Gp0OlrzjEv.AWXjGZrsKrw8_t1iaHxcZFbVNy0.BjmOpW.P8.AAA.0.0.Bj1Djo.AWVhUORmxRc"
+			"value": "065rXR1Gp0OlrzjEv.AWW_AhXJtD1_BjjIIF6jZHdzhU4.BjmOpW.P8.AAA.0.0.Bj2YQW.AWXtGlXSWVc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674852745230%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675199666490%2C%22v%22%3A1%7D"
 		}
 	]
 }
