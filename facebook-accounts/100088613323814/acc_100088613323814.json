@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "01.02.2023 23:19 Aquecimento.Nº4",
+	"lastEventDate": "01.02.2023 23:24 Aquecimento.Nº4",
 	"status": 2,
 	"id": "100088613323814",
 	"name": "",
@@ -11,32 +11,6 @@
 	"country": "Biritiba-Mirim",
 	"isAvatarExists": false,
 	"cookie": [
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702521318.273,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100088613323814"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1705545233.527,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "datr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "CDaZYy3xuBL4Vxebu5nYufK1"
-		},
 		{
 			"domain": ".facebook.com",
 			"expirationDate": 1678761336.859,
@@ -78,6 +52,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1702521318.273,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100088613323814"
+		},
+		{
+			"domain": ".facebook.com",
 			"expirationDate": 1756269164,
 			"hostOnly": false,
 			"httpOnly": false,
@@ -104,7 +91,32 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675456481,
+			"expirationDate": 1705545233.527,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "CDaZYy3xuBL4Vxebu5nYufK1"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJwOXM5NDEwY3JoemUiLCJ0aW1lIjoxNjc1MDMzODM3fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675898636,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,7 +129,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682627470.629606,
+			"expirationDate": 1683069613.078852,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0F8BUoh7gh3DKS0mU.AWWe0HXn3MCOT--ICriluakSKGE.BjmTYU.Z6.AAA.0.0.Bj1DSP.AWW2yxPy82M"
+			"value": "0F8BUoh7gh3DKS0mU.AWVPAm20KmKOY7UhV3TNygtSmc4.BjmTYU.Z6.AAA.0.0.Bj2vOt.AWWQ_RlIJJU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674851654404%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675293806119%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "web.facebook.com",
@@ -150,7 +162,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbOAhbyjMjdDxMEFsyQ8qP2wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABb01KG9DBYAABV-HEwAABYAFpTVob0MFgAAFh4A%22%2C%225%22%3A%22GSwVNBxMAAAWABaW1aG9DBYAABWAARxMAAAWABaW1aG9DBYAABYeAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCaY1aG9DBYAABUEFTommNWhvQwWAAAVBBU8JpjVob0MFgAAFQQVUiaY1aG9DBYAABUEFWAmmNWhvQwWAAAVBBViJpjVob0MFgAAFQQVaiaY1aG9DBYAABUEFW4mmNWhvQwWAAAVBBV0JpjVob0MFgAAFgARAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221674851658%22%7D%2C%22d%22%3A%2210a8950a-a59e-417f-ae91-5d36f667d401%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaKAxbwmvBxEwQWzJDyo_bBLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbc0de9DBYAABV-HEwAABYAFujR170MFgAAFh4A%22%2C%225%22%3A%22GSwVNBxMAAAWABbo0de9DBYAABWAARxMAAAWABbo0de9DBYAABYeAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCby0de9DBYAABUEFTom9NHXvQwWAAAVBBU8JvbR170MFgAAFQQVUib40de9DBYAABUEFWAm-tHXvQwWAAAVBBViJuzR170MFgAAFQQVaibw0de9DBYAABUEFW4m_NHXvQwWAAAVBBV0Ju7R170MFgAAFgARAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221675293812%22%7D%2C%22d%22%3A%2210a8950a-a59e-417f-ae91-5d36f667d401%22%2C%22s%22%3A%220%22%7D"
 		}
 	]
 }
