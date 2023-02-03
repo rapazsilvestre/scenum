@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "03.02.2023 22:14 Aquecimento.Nº1",
+	"lastEventDate": "03.02.2023 22:19 Aquecimento.Nº1",
 	"status": 2,
 	"id": "100088613323814",
 	"name": "",
@@ -116,7 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675974118,
+			"expirationDate": 1676067538,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -129,7 +129,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683145075.195118,
+			"expirationDate": 1683238508.527549,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0F8BUoh7gh3DKS0mU.AWW-SG8EgyCLgHbMColRPtynyQ8.BjmTYU.Z6.AAA.0.0.Bj3Bpz.AWVDagYdICA"
+			"value": "0F8BUoh7gh3DKS0mU.AWXk5giFqqpDr9YeY4dmQqkZv-k.BjmTYU.Z6.AAA.0.0.Bj3Ydt.AWWcZVGkwQs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675369290271%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675462706685%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "web.facebook.com",
@@ -162,7 +162,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaqAxbUiIP-BRMEFsyQ8qP2wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaE7eC9DBYAABV-HEwAABYAFpzt4L0MFgAAFh4A%22%2C%225%22%3A%22GSwVNBxMAAAWABai7eC9DBYAABWAARxMAAAWABai7eC9DBYAABYeAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCaq7eC9DBYAABUEFTomrO3gvQwWAAAVBBU8Jq7t4L0MFgAAFQQVUiaw7eC9DBYAABUEFWAmsu3gvQwWAAAVBBViJqLt4L0MFgAAFQQVaiao7eC9DBYAABUEFW4mtO3gvQwWAAAVBBV0Jqbt4L0MFgAAFgARAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221675369294%22%7D%2C%22d%22%3A%2210a8950a-a59e-417f-ae91-5d36f667d401%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbGAxb-2JOYDhMEFsyQ8qP2wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbYoOy9DBYAABV-HEwAABYAFuyg7L0MFgAAFh4A%22%2C%225%22%3A%22GSwVNBxMAAAWABbwoOy9DBYAABWAARxMAAAWABbwoOy9DBYAABYeAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbwoOy9DBYAABUEFTom8KDsvQwWAAAVBBU8JvSg7L0MFgAAFQQVUib0oOy9DBYAABUEFWAm9KDsvQwWAAAVBBViJvCg7L0MFgAAFQQVaibwoOy9DBYAABUEFW4m9KDsvQwWAAAVBBV0JvCg7L0MFgAAFgARAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221675462710%22%7D%2C%22d%22%3A%2210a8950a-a59e-417f-ae91-5d36f667d401%22%2C%22s%22%3A%220%22%7D"
 		}
 	]
 }
