@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "16.02.2023 18:41 Aquecimento.Nº1",
+	"lastEventDate": "16.02.2023 18:44 Aquecimento.Nº1",
 	"status": 2,
 	"id": "100088377054743",
 	"name": "",
@@ -104,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1676850364,
+			"expirationDate": 1677177875,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684021341.938162,
+			"expirationDate": 1684348898.558503,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0xQp9wKCsVd8EM8lV.AWVV1McoR9RneRiSdCfhPUJQf-U.Bjmagi.W_.AAA.0.0.Bj6Xle.AWX3irPiqCo"
+			"value": "0xQp9wKCsVd8EM8lV.AWW57cNzou_fPGrLe_SOZn8hDL8.Bjmagi.W_.AAA.0.0.Bj7njj.AWVSuQsyErU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676245532601%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676573048796%2C%22v%22%3A1%7D"
 		}
 	]
 }
