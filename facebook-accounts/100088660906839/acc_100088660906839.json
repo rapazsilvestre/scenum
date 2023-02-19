@@ -114,7 +114,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1677173037,
+			"expirationDate": 1677372428,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -123,11 +123,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x620"
+			"value": "1366x580"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684344036.252336,
+			"expirationDate": 1684543420.551942,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -136,7 +136,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "00PEC9fjRNMU7ObsC.AWWO4v27akIckZoHFHpK6iMozzI.Bj2Va9.W5.AAA.0.0.Bj7mXl.AWUIZF5Q6nw"
+			"value": "00PEC9fjRNMU7ObsC.AWUDmu3NaRlK0k29GeH8uc67OgY.Bj2Va9.W5.AAA.0.0.Bj8XC9.AWUt8NZt3WU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -148,10 +148,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676568243486%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1676767584316%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.02.2023 00:43 Aquecimento.Nº1",
+	"lastEventDate": "19.02.2023 00:47 Aquecimento.Nº1",
 	"email": "devronivyw46iuyoe0@outlook.com",
 	"emailPassword": "vDCT6WW0i",
 	"imapHost": "outlook.office365.com",
