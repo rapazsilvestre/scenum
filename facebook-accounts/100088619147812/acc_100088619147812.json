@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "13.03.2023 14:30 Aquecimento.Nº6",
+	"lastEventDate": "13.03.2023 14:33 Aquecimento.Nº6",
 	"status": 2,
 	"id": "100088619147812",
 	"name": "",
@@ -11,19 +11,6 @@
 	"country": "Poá",
 	"isAvatarExists": false,
 	"cookie": [
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702848804.203,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100088619147812"
-		},
 		{
 			"domain": ".facebook.com",
 			"expirationDate": 1705872711.381,
@@ -104,6 +91,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1702848804.203,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100088619147812"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -116,7 +116,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678466099,
+			"expirationDate": 1679322803,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -129,7 +129,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685637119.929266,
+			"expirationDate": 1686493823.516154,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -138,7 +138,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Lcfp9gOsthW4CfPr.AWU0A67nzqBy2Hf4qFkA7nxQMbk.BjnjVM.9k.AAA.0.0.BkAiEA.AWUqilVv0lI"
+			"value": "0Lcfp9gOsthW4CfPr.AWVw7HwsVXAK5-c-oigeNKiugLo.BjnjVM.9k.AAA.0.0.BkDzOA.AWVTOVk4TcI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -150,7 +150,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677861304239%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678717977625%2C%22v%22%3A1%7D"
 		}
 	]
 }
