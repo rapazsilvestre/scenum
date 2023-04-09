@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "09.04.2023 01:26 Aquecimento.Nº4",
+	"lastEventDate": "09.04.2023 01:30 Aquecimento.Nº4",
 	"status": 2,
 	"id": "100088613323814",
 	"name": "",
-	"amountFriends": "2",
+	"amountFriends": "3",
 	"screenname": "Andreia Gouveia",
 	"birthdate": "1993 October 28",
 	"country": "Biritiba-Mirim",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1712511347.76691,
+			"expirationDate": 1712539622.058125,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,20 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1712511347.766966,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "50%3AwecPFty8pX_A5Q%3A2%3A1679850917%3A-1%3A7651%3A%3AAcX2gjbynGjagciE7wk42fqb-fYOIh1yhx_NmQspLA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681580592,
+			"expirationDate": 1681608515,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,11 +74,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x620"
+			"value": "1366x580"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1688751708.590974,
+			"expirationDate": 1712539622.058182,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "50%3AwecPFty8pX_A5Q%3A2%3A1679850917%3A-1%3A7651%3A%3AAcXgRscvX5UyRfP2pWou1-0Z7C4Y8UZydZxXCmH6OQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1688779631.805791,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "00TWMZUwaEedPifHy.AWVd3bY4x9xe0mOHcKTybAMePOI.BkMaX0.l0.AAA.0.0.BkMadd.AWVqbhC7xrs"
+			"value": "0PHKfdlW13pAuJuQ8.AWWilFUiCuplSOEGTFxRr4VIPas.BkMhRk.l0.AAA.0.0.BkMhRw.AWWeAmefQSQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1680975758657%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1681003717202%2C%22v%22%3A1%7D"
 		}
 	]
 }
