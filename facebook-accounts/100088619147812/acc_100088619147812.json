@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "09.04.2023 00:44 Aquecimento.Nº6",
+	"lastEventDate": "09.04.2023 00:48 Aquecimento.Nº6",
 	"status": 2,
 	"id": "100088619147812",
 	"name": "",
@@ -36,6 +36,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "eyJyIjoiL2NvbmZpcm1lbWFpbC5waHA%2FbmV4dD1odHRwcyUzQSUyRiUyRm0uZmFjZWJvb2suY29tJTJGJTNGcGFpcHYlM0QwJTI2ZWF2JTNEQWZZRU91SGNQRUR3NkQzWkJybXhPUEQ2REJyQVEwUFVZQzBfb3ZuWWFrMG54YjNLVW53c2ZFN2FOWFlzNWk1Z3lLUSZwYWlwdj0wJmVhdj1BZllrZm5MWEVRRUt0a2dybFZPaGg5TVk1aHV5ZjRGVEF0WWdVdk90QmFKOUpZMGo2Z0ZRZUFiV1pHMS1lNkQ1TERrJnNvZnQ9aGprIiwiaCI6Ii9jb25maXJtZW1haWwucGhwP25leHQ9aHR0cHMlM0ElMkYlMkZtLmZhY2Vib29rLmNvbSUyRiUzRnBhaXB2JTNEMCUyNmVhdiUzREFmWUVPdUhjUEVEdzZEM1pCcm14T1BENkRCckFRMFBVWUMwX292bllhazBueGIzS1Vud3NmRTdhTlhZczVpNWd5S1EmcGFpcHY9MCZlYXY9QWZZa2ZuTFhFUUVLdGtncmxWT2hoOU1ZNWh1eWY0RlRBdFlnVXZPdEJhSjlKWTBqNmdGUWVBYldaRzEtZTZENUxEayZzb2Z0PWhqayIsInMiOiJtIn0%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1702848804,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100088619147812"
 		},
 		{
 			"domain": ".facebook.com",
@@ -78,19 +91,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702848804,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100088619147812"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1705872811,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -117,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680537790,
+			"expirationDate": 1681605996,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -130,7 +130,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1687708911.965087,
+			"expirationDate": 1688777094.833784,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +139,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Lcfp9gOsthW4CfPr.AWWk9K3YGrfa8FgAVm6Hoc67mkU.BjnjVM.9k.AAA.0.0.BkIb3w.AWWIlbF7RyA"
+			"value": "0Lcfp9gOsthW4CfPr.AWXvI-Ggnm0NDwCfoOr51QgT7Ic.BjnjVM.9k.AAA.0.0.BkMgqH.AWU2RgyjrJ4"
 		}
 	]
 }
