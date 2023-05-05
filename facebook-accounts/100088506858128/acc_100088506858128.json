@@ -1,15 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "05.05.2023 20:46 Aquecimento.Nº2",
+	"lastEventDate": "05.05.2023 22:14 Aquecimento.Nº3",
 	"status": 2,
 	"id": "100088506858128",
 	"name": "",
 	"amountFriends": "3",
-	"screenname": "Livia Souza",
-	"birthdate": "1992 August 27",
-	"country": "Brazil",
-	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -52,7 +48,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714787058.4621,
+			"expirationDate": 1714855596.266458,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,20 +61,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683855964,
+			"expirationDate": 1683924491,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "wd",
+			"name": "dpr",
 			"path": "/",
-			"sameSite": "lax",
+			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x620"
+			"value": "1.25"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714787058.46216,
+			"expirationDate": 1714855596.266519,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +83,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "34%3ANVZ_HlEdTZsO2w%3A2%3A1680995679%3A-1%3A436%3A%3AAcX589LvTYB-eR-yy8gGTicyYOQGGs9BsSaR5Li5Xa0"
+			"value": "34%3ANVZ_HlEdTZsO2w%3A2%3A1680995679%3A-1%3A436%3A%3AAcWz8SHJoligVmaMhA1f4FTky9yMpJfg1F_ulOk5kd4"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1691027067.908967,
+			"expirationDate": 1691095604.467771,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +96,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0wDHrh36eTmsIGUM5.AWWw5W4dRzJ79p-XmC7Hmw8UcJQ.BkVF9y.X9.AAA.0.0.BkVF98.AWXLZgP1CDo"
+			"value": "0QJ5BCptaQmEF3VVB.AWUaPLGzIidpT-amUS4OPh8UD-s.BkVWss.X9.AAA.0.0.BkVWs1.AWU0pNLPrKA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683924497,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x932"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +121,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1683251159163%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1683319697702%2C%22v%22%3A1%7D"
 		}
 	]
 }
