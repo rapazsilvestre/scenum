@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "05.05.2023 19:44 Aquecimento.Nº3",
+	"lastEventDate": "05.05.2023 19:48 Aquecimento.Nº3",
 	"status": 2,
 	"id": "100088619147812",
 	"name": "",
@@ -26,6 +26,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1702848804,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1%3Af4pavBpxvqTT-g%3A2%3A1671312810%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
 			"expirationDate": 1741072110,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -36,6 +49,19 @@
 			"session": false,
 			"storeId": "0",
 			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674530414807%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1741072110,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "x-referer",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "eyJyIjoiL2NvbmZpcm1lbWFpbC5waHA%2FbmV4dD1odHRwcyUzQSUyRiUyRm0uZmFjZWJvb2suY29tJTJGJTNGcGFpcHYlM0QwJTI2ZWF2JTNEQWZZRU91SGNQRUR3NkQzWkJybXhPUEQ2REJyQVEwUFVZQzBfb3ZuWWFrMG54YjNLVW53c2ZFN2FOWFlzNWk1Z3lLUSZwYWlwdj0wJmVhdj1BZllrZm5MWEVRRUt0a2dybFZPaGg5TVk1aHV5ZjRGVEF0WWdVdk90QmFKOUpZMGo2Z0ZRZUFiV1pHMS1lNkQ1TERrJnNvZnQ9aGprIiwiaCI6Ii9jb25maXJtZW1haWwucGhwP25leHQ9aHR0cHMlM0ElMkYlMkZtLmZhY2Vib29rLmNvbSUyRiUzRnBhaXB2JTNEMCUyNmVhdiUzREFmWUVPdUhjUEVEdzZEM1pCcm14T1BENkRCckFRMFBVWUMwX292bllhazBueGIzS1Vud3NmRTdhTlhZczVpNWd5S1EmcGFpcHY9MCZlYXY9QWZZa2ZuTFhFUUVLdGtncmxWT2hoOU1ZNWh1eWY0RlRBdFlnVXZPdEJhSjlKWTBqNmdGUWVBYldaRzEtZTZENUxEayZzb2Z0PWhqayIsInMiOiJtIn0%3D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -65,32 +91,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1741072110,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "x-referer",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJyIjoiL2NvbmZpcm1lbWFpbC5waHA%2FbmV4dD1odHRwcyUzQSUyRiUyRm0uZmFjZWJvb2suY29tJTJGJTNGcGFpcHYlM0QwJTI2ZWF2JTNEQWZZRU91SGNQRUR3NkQzWkJybXhPUEQ2REJyQVEwUFVZQzBfb3ZuWWFrMG54YjNLVW53c2ZFN2FOWFlzNWk1Z3lLUSZwYWlwdj0wJmVhdj1BZllrZm5MWEVRRUt0a2dybFZPaGg5TVk1aHV5ZjRGVEF0WWdVdk90QmFKOUpZMGo2Z0ZRZUFiV1pHMS1lNkQ1TERrJnNvZnQ9aGprIiwiaCI6Ii9jb25maXJtZW1haWwucGhwP25leHQ9aHR0cHMlM0ElMkYlMkZtLmZhY2Vib29rLmNvbSUyRiUzRnBhaXB2JTNEMCUyNmVhdiUzREFmWUVPdUhjUEVEdzZEM1pCcm14T1BENkRCckFRMFBVWUMwX292bllhazBueGIzS1Vud3NmRTdhTlhZczVpNWd5S1EmcGFpcHY9MCZlYXY9QWZZa2ZuTFhFUUVLdGtncmxWT2hoOU1ZNWh1eWY0RlRBdFlnVXZPdEJhSjlKWTBqNmdGUWVBYldaRzEtZTZENUxEayZzb2Z0PWhqayIsInMiOiJtIn0%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702848804,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1%3Af4pavBpxvqTT-g%3A2%3A1671312810%3A-1%3A-1"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1705872811,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -117,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683851617,
+			"expirationDate": 1683920794,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,11 +126,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1366x580"
+			"value": "1920x932"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1691022727.4122,
+			"expirationDate": 1691091912.904822,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -139,7 +139,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Lcfp9gOsthW4CfPr.AWVc-VwVlVeTWfIamntN2XzMDJI.BjnjVM.9k.AAA.0.0.BkVE6I.AWWWWCE3lGk"
+			"value": "0Lcfp9gOsthW4CfPr.AWW6aGVh6wEwJzAqbch4hBI8sAE.BjnjVM.9k.AAA.0.0.BkVVzJ.AWUlbh1Hy1w"
 		}
 	]
 }
