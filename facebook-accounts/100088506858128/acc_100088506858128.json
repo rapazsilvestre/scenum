@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "08.05.2023 03:53 Aquecimento.Nº4",
+	"lastEventDate": "08.05.2023 03:57 Aquecimento.Nº4",
 	"status": 2,
 	"id": "100088506858128",
 	"name": "",
@@ -48,7 +48,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714855596.266458,
+			"expirationDate": 1715054040.546489,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -61,7 +61,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1683924491,
+			"expirationDate": 1684122844,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -70,37 +70,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.25"
+			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1714855596.266519,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "34%3ANVZ_HlEdTZsO2w%3A2%3A1680995679%3A-1%3A436%3A%3AAcWz8SHJoligVmaMhA1f4FTky9yMpJfg1F_ulOk5kd4"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1691095604.467771,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0QJ5BCptaQmEF3VVB.AWUaPLGzIidpT-amUS4OPh8UD-s.BkVWss.X9.AAA.0.0.BkVWs1.AWU0pNLPrKA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1683924497,
+			"expirationDate": 1684122926,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -109,7 +83,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1920x932"
+			"value": "1366x620"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1715054040.546548,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "34%3ANVZ_HlEdTZsO2w%3A2%3A1680995679%3A-1%3A436%3A%3AAcXsYpJzKS7-Zsyf6quBH0GQBFXvVo7rUyVorDAOa4Q"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1691294042.373291,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0GEUVDxR0xnn2QCtG.AWVFWQrp72MhrPKQdvwkW59Yoz8.BkWHJZ.X9.AAA.0.0.BkWHJb.AWXOo5UXSFI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -121,7 +121,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1683319697702%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1683518131994%2C%22v%22%3A1%7D"
 		}
-	]
+	],
+	"screenname": "Livia Souza",
+	"birthdate": "1992 August 27",
+	"country": "Brazil",
+	"isAvatarExists": false
 }
