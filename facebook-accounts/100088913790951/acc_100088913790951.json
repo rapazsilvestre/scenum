@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 03:08 Aquecimento.Nº1",
+	"lastEventDate": "18.05.2023 03:11 Aquecimento.Nº1",
 	"status": 2,
 	"id": "100088913790951",
 	"name": "",
@@ -13,16 +13,16 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702439882,
+			"expirationDate": 1741072110,
 			"hostOnly": false,
 			"httpOnly": true,
-			"name": "c_user",
+			"name": "presence",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "100088913790951"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675458511306%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -65,29 +65,16 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1741072110,
+			"expirationDate": 1702439882,
 			"hostOnly": false,
 			"httpOnly": true,
-			"name": "presence",
+			"name": "c_user",
 			"path": "/",
 			"sameSite": "no_restriction",
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1675458511306%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1741072110,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "m_pixel_ratio",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
+			"value": "100088913790951"
 		},
 		{
 			"domain": ".facebook.com",
@@ -104,7 +91,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684789088,
+			"expirationDate": 1741072110,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "m_pixel_ratio",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1684984183,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1691960209.071315,
+			"expirationDate": 1692155303.622349,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0qRCm4eiO5AuEdcFN.AWWtxc0UhwM_Jb3AaLbSecTz6Hc.BkWvUP.pi.AAA.0.0.BkYpyR.AWWtQJFYJYs"
+			"value": "0qRCm4eiO5AuEdcFN.AWXgHwnxzb1tkG9EyqUy_SC4ikc.BkWvUP.pi.AAA.0.0.BkZZao.AWV32GbqBT0"
 		}
 	]
 }
