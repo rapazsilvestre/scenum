@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "18.05.2023 00:31 Aquecimento.Nº4",
+	"lastEventDate": "18.05.2023 00:35 Aquecimento.Nº4",
 	"status": 2,
 	"id": "100088836514770",
 	"name": "",
@@ -11,6 +11,45 @@
 	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1702447920,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100088836514770"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1702447920,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "7%3Asoq8OR-Vws690w%3A2%3A1670911932%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1741072110,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "x-referer",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "eyJyIjoiL2NvbmZpcm1lbWFpbC5waHA%2FbmV4dD1odHRwcyUzQSUyRiUyRm0uZmFjZWJvb2suY29tJTJGJTNGcGFpcHYlM0QwJTI2ZWF2JTNEQWZaVEdqbzNRdkdITDcwNEJmMXVzeFhsV2pzdnJUQjFMaDhXVDVkRHpURHllX21pN2RONjhuU1d6NHdfNEFPejNCNCZwYWlwdj0wJmVhdj1BZlk3aDlMY3FxUC1SZG1IaXFOYUJ4OGkySmRqcTdhb3B3WTZKTUhZbGpTRjBYSnIzcGc0eHVoLTJYclQ0YlhYQ3lFJnNvZnQ9aGprIiwiaCI6Ii9jb25maXJtZW1haWwucGhwP25leHQ9aHR0cHMlM0ElMkYlMkZtLmZhY2Vib29rLmNvbSUyRiUzRnBhaXB2JTNEMCUyNmVhdiUzREFmWlRHam8zUXZHSEw3MDRCZjF1c3hYbFdqc3ZyVEIxTGg4V1Q1ZER6VER5ZV9taTdkTjY4blNXejR3XzRBT3ozQjQmcGFpcHY9MCZlYXY9QWZZN2g5TGNxcVAtUmRtSGlxTmFCeDhpMkpkanE3YW9wd1k2Sk1IWWxqU0YwWEpyM3BnNHh1aC0yWHJUNGJYWEN5RSZzb2Z0PWhqayIsInMiOiJtIn0%3D"
+		},
 		{
 			"domain": ".facebook.com",
 			"expirationDate": 1705471934,
@@ -65,46 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702447920,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100088836514770"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702447920,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "7%3Asoq8OR-Vws690w%3A2%3A1670911932%3A-1%3A-1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1741072110,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "x-referer",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "eyJyIjoiL2NvbmZpcm1lbWFpbC5waHA%2FbmV4dD1odHRwcyUzQSUyRiUyRm0uZmFjZWJvb2suY29tJTJGJTNGcGFpcHYlM0QwJTI2ZWF2JTNEQWZaVEdqbzNRdkdITDcwNEJmMXVzeFhsV2pzdnJUQjFMaDhXVDVkRHpURHllX21pN2RONjhuU1d6NHdfNEFPejNCNCZwYWlwdj0wJmVhdj1BZlk3aDlMY3FxUC1SZG1IaXFOYUJ4OGkySmRqcTdhb3B3WTZKTUhZbGpTRjBYSnIzcGc0eHVoLTJYclQ0YlhYQ3lFJnNvZnQ9aGprIiwiaCI6Ii9jb25maXJtZW1haWwucGhwP25leHQ9aHR0cHMlM0ElMkYlMkZtLmZhY2Vib29rLmNvbSUyRiUzRnBhaXB2JTNEMCUyNmVhdiUzREFmWlRHam8zUXZHSEw3MDRCZjF1c3hYbFdqc3ZyVEIxTGg4V1Q1ZER6VER5ZV9taTdkTjY4blNXejR3XzRBT3ozQjQmcGFpcHY9MCZlYXY9QWZZN2g5TGNxcVAtUmRtSGlxTmFCeDhpMkpkanE3YW9wd1k2Sk1IWWxqU0YwWEpyM3BnNHh1aC0yWHJUNGJYWEN5RSZzb2Z0PWhqayIsInMiOiJtIn0%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1684781364,
+			"expirationDate": 1684974789,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1691952480.791368,
+			"expirationDate": 1692145909.406265,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0rxpXj23sdijfVIib.AWUrNs3Jzi_kLfsfCAFYcYx6AV8.BkWvR8.Wu.AAA.0.0.BkYn5h.AWWcQIyjVD0"
+			"value": "0rxpXj23sdijfVIib.AWU_lyvhOZ0x3VyHLcURBT3B5A8.BkWvR8.Wu.AAA.0.0.BkZXH1.AWX6aFs3sZE"
 		}
 	]
 }
