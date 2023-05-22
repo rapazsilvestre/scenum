@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "22.05.2023 18:54 Far.D8 - Ações Padrões",
+	"lastEventDate": "22.05.2023 18:58 Far.D8 - Ações Padrões",
 	"status": 2,
 	"id": "100088347146359",
 	"name": "",
@@ -104,7 +104,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684979394,
+			"expirationDate": 1685386570,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,7 +117,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692150509.608735,
+			"expirationDate": 1692557683.845829,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -126,7 +126,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0pjgEine1Y9D2bMcV.AWXLGkk_up92bJ1cilfq6l2GqmU.BkWvaJ.Ya.AAA.0.0.BkZYPu.AWUZ0yWBtco"
+			"value": "0pjgEine1Y9D2bMcV.AWWyvSZUO35-nD1B6mZLcT4bJeA.BkWvaJ.Ya.AAA.0.0.Bka7p0.AWXSFW8krFA"
 		}
 	]
 }
